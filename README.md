@@ -4,7 +4,7 @@
 
 # Ethics of Computing and Technology  
 *Engaging Through Science Fiction*  
-*The MIT Press, Cambridge, Massachusetts, 2023*
+*The MIT Press, 2023*
 
 ---
 
