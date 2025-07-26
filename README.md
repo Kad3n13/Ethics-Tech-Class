@@ -138,7 +138,9 @@ Analyze sci-fi scenarios to anticipate real-world ethical challenges.
 Computing and Technology Ethics
 Engaging Through Science Fiction
 by Emmanuelle Burton, Judy Goldsmith, Nicholas Mattei, Cory Siler, and Sara-Jo Swiatek 
-![thumbnail_medium-154066076](https://github.com/user-attachments/assets/24762d48-0256-4c07-af03-a39eda06743f)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/24762d48-0256-4c07-af03-a39eda06743f" alt="thumbnail_medium-154066076" width="300" />
+</p>
 
 ---
 
