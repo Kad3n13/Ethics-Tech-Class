@@ -132,6 +132,8 @@ Analyze sci-fi scenarios to anticipate real-world ethical challenges.
 4. How can happiness or harm from technology be measured, and who decides the metrics?
 5. Where do your own value judgments influence your technology assessments?
 
+# Bookmark
+(pg) [56]
 ---
 
 **Reference:**  
