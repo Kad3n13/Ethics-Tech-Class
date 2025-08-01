@@ -123,6 +123,17 @@ Consider examples for each quadrant (see table above) and reflect on situations 
 <h6>An illustration shows the various sectors of an organization affected by CSR. The center circle labeled “Corporate Social Responsibilty” points to six surrounding circles with the following labels: Shareholders, Consumers, Employees, Community, Environement, and Suppliers. </h6>
 <h1>My personal Notes on The Subject For Academic ventures<h1>
 
+| Action                                        | Classification         | Notes                                                     |
+|-----------------------------------------------|------------------------|----------------------------------------------------------|
+| Google dorking for real estate or research    | Ethical and Legal      | Considered ethical OSINT use                             |
+| Google dorking to gather info to potentially harass | Ethical and Illegal     | Ethical if limited to OSINT; harassment itself is illegal|
+| Using illegal tools to harm or break the law  | Unethical and Illegal  | Criminal behavior and unethical                          |
+| Using nmap on unauthorized systems            | Unethical and Illegal  | Unauthorized scanning is generally illegal and unethical |
+
+
+
+
+
 ---
 
 # Ethics of Computing and Technology  
