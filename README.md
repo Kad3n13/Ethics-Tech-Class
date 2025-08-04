@@ -295,7 +295,7 @@ As a professional, I **cannot ethically approve or support shipping an unfinishe
 | **Social impact**            | Employee volunteerism rate                               | 41%                |
 |                             | Worldwide charitable giving (dollars in millions)       | $90.3              |
 |                             | Charitable giving as a percentage of pre-tax net income | 0.6%               |
-| **Supply chain responsibility** | Supplier audits (third-party and Intel-led audits)       | *(Data not provided)* |
+| **Supply chain responsibility** | Supplier audits (third-party and Intel-led audits)       | 121 |
 
 ### [CITE]
 >  http://csrreportbuilder.intel.com/PDFfiles/CSR-2015_Executive-Summary.pdf
