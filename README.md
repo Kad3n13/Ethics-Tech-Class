@@ -249,8 +249,127 @@ I would refuse to sign off on the software release in its current state. The sof
 I would explain to my manager that releasing the software as-is would be unethical and could lead to serious harm for both customers and the company. Instead, I would recommend **requesting additional time** or **prioritizing the resolution of critical issues** before the release.  
 
 As a professional, I **cannot ethically approve or support shipping an unfinished and buggy product**, regardless of the deadline pressure or budget concerns.
+---
 
+<h1>Corporate Social Responsibility</h1>
+<p>corporate social responsibility (CSR) is the concept that an organization should act ethically by taking responsibility for the impact of its actions on its shareholders, consumers, employees, community, environment, and suppliers An organization’s approach to CSR can encompass a wide variety of tactics—from donating a portion of net profit to charity to implementing more sustainable business operations or encouraging employee education through tuition reimbursement. Setting CSR goals encourages an organization to achieve higher moral and ethical standards. </p>
 
+<h3>An Organization’s Program CSR Affects Its Shareholders, Consumers, Employees, Community, Environment, and Suppliers </h3>
+
+<img width="562" height="534" alt="image" src="https://github.com/user-attachments/assets/986e4a98-aa10-494d-b0fc-2fe4be847b0c" />
+
+<p>An illustration shows the various sectors of an organization affected by CSR. The center circle labeled “Corporate Social Responsibilty” points to six surrounding circles with the following labels: Shareholders, Consumers, Employees, Community, Environement, and Suppliers. </p>
+
+<p>supply chain sustainability is a component of CSR that focuses on developing and maintaining a supply chain that meets the needs of the present without compromising the ability of future generations to meet their needs. Supply chain sustainability takes into account issues such as fair labor practices, energy and resource conservation, human rights, and community responsibility. Many IT equipment manufacturers have made supply chain sustainability a priority, in part, because they must adhere to various European Union directives and regulations—including the Restriction of Hazardous Substances Directive, the Waste Electrical and Electronic Equipment Directive, and the Registration, Evaluation, Authorization, and Restriction of Chemicals (REACH) Regulation—to be permitted to sell their products in the European Union countries. In many cases, meeting supply chain sustainability goals can also lead to lower costs. For example, in fiscal year 2015, Dell launched its closed-loop plastics supply chain and by year end had recycled 2.2 million pounds of those plastics back into new Dell products. In addition, its global takeback program has made Dell the world’s largest technology recycler, collecting more than 1.4 billion pounds of e-waste since 2007.</p>
+
+### [CITE]
+>  http://i.dell.com/sites/doccontent/corporate/corp-comm/en/Documents/fy15-cr-report.pdf 
+
+<p>Each organization must decide if CSR is a priority and, if so, what its specific CSR goals are. The pursuit of some CSR goals can lead to increased profits, making it easy for senior company management and stakeholders to support the organization’s goals in this arena. However, if striving to meet a specific CSR goal leads to a decrease in profits, senior management may be challenged to modify or drop that CSR goal entirely. For example, most U.S. auto manufacturers have introduced models that run on clean, renewable electric power as part of a corporate responsibility goal of helping to end U.S. dependence on oil. However, Americans have been slow to embrace electric cars, and many manufacturers have had to offer low-interest financing, cash discounts, sales bonuses, and subsidized leases to get the autos off the sales floor. Manufacturers and dealers are struggling to increase profits on the sale of these electric cars, and senior management at the automakers must consider how long they can continue with their current strategies. </p>
+
+<p>Many organizations define a wide range of corporate responsibility areas that are important to them, their customers, and their community. In order for a CSR program to be effective, a senior executive should be placed in charge of corporate responsibility results for each area, with strategic initiatives defined, staffed, and well-funded. Key indicators of progress in these areas should be defined and the results tracked and reported to measure progress. </p>
+
+> <p>Many organizations define a wide range of corporate responsibility areas that are important to them, their customers, and their community. In order for a CSR program to be effective, a senior executive should be placed in charge of corporate responsibility results for each area, with strategic initiatives defined, staffed, and well-funded. Key indicators of progress in these areas should be defined and the results tracked and reported to measure progress.</p>
+
+# Table 1-2: Intel Corporate Responsibility Report for 2015
+
+| Key Performance Area         | Key Performance Indicator                                | 2015 Value         |
+|-----------------------------|----------------------------------------------------------|--------------------|
+| **Financial results and economic impact** | Net revenue                                              | $55.4B             |
+|                             | Net income                                               | $11.4B             |
+|                             | Provision for taxes                                      | $2.8B              |
+|                             | Research and development spending                        | $12.1B             |
+|                             | Capital investments                                     | $7.3B              |
+|                             | Customer survey “Delighted” score                        | 87%                |
+| **Environmental sustainability** | Greenhouse gas emissions (millions of metric tons)     | 2.00               |
+|                             | Energy usage (billions of kWh)                           | 6.4                |
+|                             | Total water withdrawn (billions of gallons)              | 9.0                |
+|                             | Hazardous waste generated (thousands of tons)/% to landfill | 61.6 / 2%          |
+|                             | Nonhazardous waste generated (thousands of tons)/% recycled | 80.8 / 82%         |
+| **Our people**               | Employees at year end (thousands)                        | 107.3              |
+|                             | Women in global workforce (percentage)                   | 25%                |
+|                             | Women on our board of directors at year-end              | 18%                |
+|                             | Investment in training (millions of dollars)             | $278               |
+|                             | Safety (recordable rate/days away case rate)             | 0.58 / 0.11        |
+|                             | Organizational Health Survey scores — “Proud to Work for Intel” | 84% (2014)        |
+| **Social impact**            | Employee volunteerism rate                               | 41%                |
+|                             | Worldwide charitable giving (dollars in millions)       | $90.3              |
+|                             | Charitable giving as a percentage of pre-tax net income | 0.6%               |
+| **Supply chain responsibility** | Supplier audits (third-party and Intel-led audits)       | *(Data not provided)* |
+
+### [CITE]
+>  http://csrreportbuilder.intel.com/PDFfiles/CSR-2015_Executive-Summary.pdf
+---
+
+# Why Fostering Corporate Social Responsibility and Good Business Ethics Is Important?
+
+Organizations have at least five good reasons to pursue CSR goals and to promote a work environment in which employees are encouraged to act ethically when making business decisions:
+
+- Gaining the goodwill of the community
+- Creating an organization that operates consistently
+- Fostering good business practices
+- Protecting the organization and its employees from legal action
+- Avoiding unfavorable publicity
+
+## Gaining the Goodwill of the Community
+
+Although organizations exist primarily to earn profits or provide services to customers, they also have some fundamental responsibilities to society. As discussed in the previous section, companies often declare these responsibilities in specific CSR goals.
+
+All successful organizations, including technology firms, recognize that they must attract and maintain loyal customers. **Philanthropy** is one way in which an organization can demonstrate its values in action and make a positive connection with its stakeholders.  
+*(A stakeholder is someone who stands to gain or lose, depending on how a particular situation is resolved.)*
+
+As a result, many organizations initiate or support socially responsible activities, which may include:  
+
+- Making contributions to charitable organizations and nonprofit institutions  
+- Providing benefits for employees in excess of any legal requirements  
+- Devoting organizational resources to initiatives that are more socially desirable than profitable  
+
+Here are a few examples of some of the CSR activities supported by major IT organizations:
+
+- **Dell Inc.**: Has several initiatives aimed at reducing the amount of natural resources it takes to create and ship its products, cutting the amount of energy it takes its customers to use its products, and curbing the effects its products have on people and the planet.
+### [CITE]
+>  http://i.dell.com/sites/doccontent/corporate/corp-comm/en/Documents/fy16-cr-report.pdf
+
+- **Google**: Agreed to invest more than $1.5 billion in renewable energy projects, such as large-scale wind farms and rooftop solar panels.
+### [CITE]
+> http://research-methodology.net/google-corporate-social-responsibility-csr/
+
+- **IBM**: Created a program to train transitioning service members to become certified as advanced data analysts. The company also launched the P-TECH program to help students from low-income families finish high school and obtain associate degrees. Several graduates of the program have taken entry-level jobs at IBM while continuing to work toward a four-year degree.
+### [CITE]
+>  www.ibm.com/ibm/responsibility/2015/assets/downloads/IBM_2015_CR_report.pdf 
+
+- **Microsoft**: Made $922 million in technology donations to more than 120,000 nonprofit organizations globally, and its employees contributed $117 million to 20,000 nonprofits through the company’s corporate giving program.
+### [CITE]
+> https://download.microsoft.com/download/7/3/6/736CED21-9D8B-4CBB-98E8-DCBAE7026251/Microsoft%202015%20Citizenship%20Report.pdf
+
+- **Oracle**: Delivered nearly $5 billion in resources (with a focus on computer science education) to help 2.2 million students in 100 countries become college-and-career ready.
+### [CITE]
+> www.oracle.com/us/corporate/citizenship/corporate-citizenship-report-2563684.pdf 
+
+- **SAP**: Pledged over $1 billion toward immediate relief efforts, long-term education, and integration projects to assist refugees, and it initiated a program to provide internship opportunities for more than 100 refugees as well as humanitarian assistance.
+### [CITE]
+>  https://www.sap.com/docs/download/investors/2015/sap-2015-annual-report.pdf 
+
+<p>The goodwill that CSR activities generate can make it easier for corporations to conduct their business. For example, a company known for treating its employees well will find it easier to compete for the top job candidates. On the other hand, businesses that are not socially responsible run the risk of alienating their customer base. A recent study of more than 10,000 shoppers in 10 different countries revealed that more than 90 percent are likely to switch to brands that support a socially responsible cause, given similar price and quality. In addition, 90 percent of the shoppers surveyed would boycott a company if they learned that the firm engaged in socially irresponsible business practices. Indeed, 55 percent of the respondents had already done so in the previous year.</p>
+---
+
+The goodwill that CSR activities generate can make it easier for corporations to conduct their business. For example, a company known for treating its employees well will find it easier to compete for the top job candidates.  
+
+On the other hand, businesses that are not socially responsible run the risk of alienating their customer base. A recent study of more than 10,000 shoppers in 10 different countries revealed that:  
+
+- More than **90%** are likely to switch to brands that support a socially responsible cause, given similar price and quality.  
+- **90%** of the shoppers surveyed would boycott a company if they learned that the firm engaged in socially irresponsible business practices.  
+- **55%** of the respondents had already done so in the previous year.
+
+<h1>Fostering Good Business Practices</h1>
+<p>In many cases, good ethics can mean good business and improved profits. Companies that produce safe and effective products avoid costly recalls and lawsuits. (The recall of the weight loss drug Fen-Phen cost its maker, Wyeth-Ayerst Laboratories, almost $14 billion in awards to victims, many of whom developed serious health problems as a result of taking the drug. Companies that provide excellent service retain their customers instead of losing them to competitors. Companies that develop and maintain strong employee relations enjoy lower turnover rates and better employee morale. Suppliers and other business partners often place a priority on working with companies that operate in a fair and ethical manner. All these factors tend to increase revenue and profits while decreasing expenses. As a result, ethical companies tend to be more profitable over the long term than unethical companies.</p>
+
+### [CITE]
+>  https://www.ibtimes.com/excedrin-recall-2012-5-other-worse-drug-recalls-fda-history-393656
+
+On the other hand, bad ethics can lead to bad business results. Bad ethics can have a negative impact on employees, many of whom may develop negative attitudes if they perceive a difference between their own values and those stated or implied by an organization’s actions. In such an environment, employees may suppress their tendency to act in a manner that seems ethical to them and instead act in a manner that will protect them against anticipated punishment. When such a discrepancy between employee and organizational ethics occurs, it destroys employee commitment to organizational goals and objectives, creates low morale, fosters poor performance, erodes employee involvement in organizational improvement initiatives, and builds indifference to the organization’s needs. 
+
+> <h2>BOOKMARK(pg)[16]</h2>
 ---
 
 # Ethics of Computing and Technology  
