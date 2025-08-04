@@ -131,7 +131,19 @@ Consider examples for each quadrant (see table above) and reflect on situations 
 | Using nmap on unauthorized systems            | Unethical and Illegal  | Unauthorized scanning is generally illegal and unethical |
 
 
+<h1>Ethics in Bsiness World</h1>
+<p>Ethics has risen to the top of the business agenda because the risks associated with inappropriate behavior have increased, both in their likelihood and in their potential negative impact. We have seen the collapse and/or bailout of financial institutions such as Bank of America, Citigroup, Countrywide Financial, Fannie Mae, Freddie Mac, Lehman Brothers, and American International Group (AIG) due to unwise and/or unethical decision-making regarding the approval of mortgages, loans, and lines of credit to unqualified individuals and organizations.
 
+We have also witnessed numerous corporate officers and senior managers sentenced to prison terms for their unethical behavior, including former investment broker Bernard Madoff, who bilked his clients out of an estimated $65B, and Stewart Parnell, former CEO of Peanut Corporation of America, who was sentenced to 28 years in prison for knowingly shipping contaminated food products, resulting in a salmonella outbreak that killed nine people and sickened more than 700.
+
+Clearly, unethical behavior in the business world can lead to serious negative consequences for both organizations and individuals.
+<h3>[CITE]</h3>
+> * www.cnn.com/2015/09/21/us/salmonella-peanut-exec-sentenced
+
+Several trends have incresed likelihood of unethical behavior. First, for many organization, greater globalization has created a much more complex work envioremnt that spans diverse cultures and sociieteis, making it more diffuclt to apply pinciples and codes of ethics copnsistently. Numerous U.S. companies have moved operation to developing countries, where employees or cotnractors work in conditions taht would not be acceptable in teh msot devloped parts of teh world. For example it was reported in 2016 that the employyes of the pegatron factory in chin where the app Iphone is produces are often forced to work excessive amounts of overtime-- up to 90 overtime houres per monht while theri overall wages have been cut from $1.85 - $1.60 per hour 
+<h3>[CITE]</h3>
+> * www.washingtonpost.com/news/the-switch/wp/2016/09/01/as-apples-profits-decline-iphone-factory-workers-suffer-a-new-report-claims. 
+</p>
 
 
 ---
