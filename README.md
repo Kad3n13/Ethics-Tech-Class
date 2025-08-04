@@ -131,19 +131,124 @@ Consider examples for each quadrant (see table above) and reflect on situations 
 | Using nmap on unauthorized systems            | Unethical and Illegal  | Unauthorized scanning is generally illegal and unethical |
 
 
-<h1>Ethics in Bsiness World</h1>
-<p>Ethics has risen to the top of the business agenda because the risks associated with inappropriate behavior have increased, both in their likelihood and in their potential negative impact. We have seen the collapse and/or bailout of financial institutions such as Bank of America, Citigroup, Countrywide Financial, Fannie Mae, Freddie Mac, Lehman Brothers, and American International Group (AIG) due to unwise and/or unethical decision-making regarding the approval of mortgages, loans, and lines of credit to unqualified individuals and organizations.
+# Ethics in Business World
+
+Ethics has risen to the top of the business agenda because the risks associated with inappropriate behavior have increased, both in their likelihood and in their potential negative impact. We have seen the collapse and/or bailout of financial institutions such as Bank of America, Citigroup, Countrywide Financial, Fannie Mae, Freddie Mac, Lehman Brothers, and American International Group (AIG) due to unwise and/or unethical decision-making regarding the approval of mortgages, loans, and lines of credit to unqualified individuals and organizations.
 
 We have also witnessed numerous corporate officers and senior managers sentenced to prison terms for their unethical behavior, including former investment broker Bernard Madoff, who bilked his clients out of an estimated $65B, and Stewart Parnell, former CEO of Peanut Corporation of America, who was sentenced to 28 years in prison for knowingly shipping contaminated food products, resulting in a salmonella outbreak that killed nine people and sickened more than 700.
 
 Clearly, unethical behavior in the business world can lead to serious negative consequences for both organizations and individuals.
-<h3>[CITE]</h3>
+
+### [CITE]
 > * www.cnn.com/2015/09/21/us/salmonella-peanut-exec-sentenced
 
-Several trends have incresed likelihood of unethical behavior. First, for many organization, greater globalization has created a much more complex work envioremnt that spans diverse cultures and sociieteis, making it more diffuclt to apply pinciples and codes of ethics copnsistently. Numerous U.S. companies have moved operation to developing countries, where employees or cotnractors work in conditions taht would not be acceptable in teh msot devloped parts of teh world. For example it was reported in 2016 that the employyes of the pegatron factory in chin where the app Iphone is produces are often forced to work excessive amounts of overtime-- up to 90 overtime houres per monht while theri overall wages have been cut from $1.85 - $1.60 per hour 
-<h3>[CITE]</h3>
-> * www.washingtonpost.com/news/the-switch/wp/2016/09/01/as-apples-profits-decline-iphone-factory-workers-suffer-a-new-report-claims. 
-</p>
+---
+
+Several trends have increased the likelihood of unethical behavior. First, for many organizations, greater globalization has created a much more complex work environment that spans diverse cultures and societies, making it more difficult to apply principles and codes of ethics consistently. Numerous U.S. companies have moved operations to developing countries, where employees or contractors work in conditions that would not be acceptable in the most developed parts of the world. For example, it was reported in 2016 that the employees of the Pegatron factory in China, where the Apple iPhone is produced, are often forced to work excessive amounts of overtime—up to 90 overtime hours per month—while their overall wages have been cut from $1.85 to $1.60 per hour.
+
+### [CITE]
+> * www.washingtonpost.com/news/the-switch/wp/2016/09/01/as-apples-profits-decline-iphone-factory-workers-suffer-a-new-report-claims
+
+---
+
+Second, in today's challenging and uncertain economic climate, many organizations are finding it more difficult to maintain revenue and profits. Some organizations are sorely tempted to resort to unethical behavior to maintain profits. Tesco, Britain’s largest supermarket chain, admitted its first half-year profits for 2013 were overstated by $400M. Fiat Chrysler Automobiles admitted its U.S. auto sales were overstated by hundreds of cars each month starting as far back as 2011.
+
+### [CITE]
+> https://www.theguardian.com/business/2014/oct/23/tesco-profits-black-hole-bigger
+
+### [CITE]
+> https://www.caranddriver.com/news/a15346730/streaks-over-fiat-chrysler-admits-to-overstating-u-s-sales-reports
+
+---
+
+Employees, shareholders, and regulatory agencies are increasingly sensitive to violations of accounting standards, failures to disclose substantial changes in business conditions, nonconformance with required health and safety practices, and the production of unsafe or substandard products. Such heightened vigilance raises the risk of criminal and civil lawsuits resulting in fines and/or incarceration for individuals.
+
+A classic example of the many risks associated with unethical decision-making can be found in the Enron accounting scandal in 2000. Enron, a Texas-based energy company, employed over 22,000 people and reported annual revenue of $101 billion. However, in 2001 it was revealed that much of Enron's revenue was the result of deals with limited partnerships, which it controlled. In addition, as a result of actions taken contrary to generally accepted accounting practices (GAAP), many of Enron's debts and losses were not reported in its financial statements. As the accounting scandal unfolded, Enron's shares dropped from $90 per share to less than $1 per share, and the company was forced to file for bankruptcy. The Enron case was notorious, but many other corporate scandals have occurred in spite of safeguards enacted as a result of the Enron debacle. Here are just a few examples of lapses in business ethics by employees in IT organizations:
+
+### [CITE]
+> http://picker.uchicago.edu/Enron/EnronAnnualReport2000.pdf
+
+---
+
+## Examples of Corporate Misconduct
+
+- **Volkswagen**: Has admitted that 11M of its vehicles were equipped with software that was used to cheat on emissions tests. The company is now contending with the fallout.
+- **Toshiba**: The Japanese industrial giant, whose diversified products and services include information technology and communications equipment and systems, disclosed that it overstated its earnings over a seven-year period by more than $1.2B.
+- **Amazon**: Has the second-highest employee turnover rate of companies in the Fortune 500 and has been criticized by some for creating a high-pressure work environment in which bosses’ expectations were almost impossible to satisfy, and jobs were threatened if illness or other personal issues encroached on work.
+
+### [CITE]
+> http://business-ethics.com/2015/11/13/1252-the-work-culture-at-amazon-does-the-tin-man-have-a-heart/
+
+---
+
+It is not unusual for powerful, highly successful individuals to fail to act in morally appropriate ways, as these examples illustrate. Such people are often aggressive in striving for what they want and are used to having privileged access to information, people, and other resources. Furthermore, their success often inflates their belief that they have the ability and the right to manipulate the outcome of any situation. The moral corruption of people in power, which is often facilitated by a tendency for people to look the other way when their leaders act inappropriately, has been given the name:
+
+### Bathsheba Syndrome
+
+A reference to the biblical story of King David who became corrupted by his power and success. According to the story, David became obsessed with Bathsheba, the wife of one of his generals, and eventually ordered her husband on a mission of certain death so that he could marry Bathsheba.
+
+### [CITE]
+> http://spsptalks.wordpress.com/2011/11/13/the-bathsheba-syndrome-when-a-leader-fails
+
+---
+
+Even lower-level employees and ordinary individuals can find themselves in the middle of ethical dilemmas, as these examples illustrate:
+
+- **Edward Snowden**: Working as a Dell contractor at the National Security Agency (NSA), he copied thousands of classified and unclassified documents that revealed details about the capabilities and scope of operations of the NSA and other foreign intelligence agencies. The documents were then handed over to reporters who published many of the disclosures in the Guardian and Washington Post newspapers. Snowden felt he acted as a patriot in exposing the behavior of the NSA, which he thought was overreaching and counter to the U.S. Constitution. Some consider him a whistleblower and a hero, while others see him as a traitor.
+- **Mark Lillie**: A former Takata Corporation engineer warned the company of the potential deadly consequences of using the propellant ammonium nitrate to inflate its airbags. The use of ammonium nitrate enabled Takata to earn a greater profit than other designs; however, it also resulted in devices that could deploy with too much force, causing them to rupture and shoot metal fragments at motorists. Unfortunately, Lillie was unable to convince management at Takata to choose an alternative design. He eventually left the firm in disagreement over this fatal manufacturing decision. In the United States, at least 10 deaths and more than 100 injuries have been attributed to the flawed devices, and over 100M cars with Takata inflators have been recalled worldwide.
+
+### [CITE]
+> www.consumerreports.org/cro/news/2016/05/everything-you-need-to-know-about-the-takata-air-bag-recall/index.htm  
+> www.autonews.com/article/20150205/OEM11/150209914/takata-whistleblower-willing-to-testify-on-deadly-airbag-flaws
+
+---
+
+## Table 1-1: Most Common Forms of Employee Misconduct
+
+| Type of Employee Misconduct            | % of Surveyed Employees Observing This Behavior |
+|----------------------------------------|-----------------------------------------------|
+| Misuse of company time                 | 33%                                          |
+| Abusive behavior                       | 21%                                          |
+| Lying to employees                     | 20%                                          |
+| Company resource abuse                 | 20%                                          |
+| Violating company Internet use policies| 16%                                          |
+| Discrimination                         | 15%                                          |
+| Conflicts of interest                  | 15%                                          |
+| Inappropriate social networking        | 14%                                          |
+| Health or safety violations            | 13%                                          |
+| Lying to outside stakeholders          | 12%                                          |
+| Stealing                               | 12%                                          |
+| Falsifying time reports or hours worked| 12%                                          |
+
+### [CITE]
+> [View Report (PDF)](https://s3.amazonaws.com/berkley-center/120101NationalBusinessEthicsSurvey2011WorkplaceEthicsinTransition.pdf)
+
+---
+
+![Misconduct Chart](https://github.com/user-attachments/assets/99d0d35d-f4cc-4107-a6ac-a30e7e103e76)
+
+A pie chart depicts the person responsible for instances of misconduct. The data are as follows: First-Line manager, 17%; Middle manager, 19%; Senior manager, 24%; and Non-managers, 40%.
+
+---
+
+### Managerial Misconduct
+According to the **2013 National Business Ethics Survey**, managers—those expected to act as role models and enforce discipline—are responsible for **60% of workplace misconduct**, as shown in Figure 1-3.
+
+### [CITE]
+> https://s3.amazonaws.com/berkley-center/120101NationalBusinessEthicsSurvey2011WorkplaceEthicsinTransition.pdf
+
+---
+
+### Ethical Dilemma Scenario
+You are a new hire at a large software firm and have been working overtime for the last two months trying to complete the final testing of a new software release for the firm’s flagship product, which is used by thousands of organizations worldwide. Unfortunately, the software has many bugs and testing has taken weeks longer than expected. This afternoon your boss stopped by and asked you to “sign off” on the completion of your portion of the testing. He explains that the project has gone over budget and is in danger of missing the committed release date for customers. When you object because you feel the software is still buggy, he says not to worry—whatever bugs remain will be fixed in the next release of the
+
+### Answer to Ethical Dilemma Scenario
+
+I would refuse to sign off on the software release in its current state. The software contains multiple vulnerabilities that could expose **customer Personally Identifiable Information (PII)**, **Sensitive Information (SII)**, confidential company data, and potentially compromise the backend database.  
+
+I would explain to my manager that releasing the software as-is would be unethical and could lead to serious harm for both customers and the company. Instead, I would recommend **requesting additional time** or **prioritizing the resolution of critical issues** before the release.  
+
+As a professional, I **cannot ethically approve or support shipping an unfinished and buggy product**, regardless of the deadline pressure or budget concerns.
 
 
 ---
