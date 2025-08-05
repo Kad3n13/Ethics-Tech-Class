@@ -674,6 +674,56 @@ As part of an ongoing effort to engrain socially responsible business behavior i
   - Policy compliance evaluation  
   - Specific implementation plans for suppliers’ own programs in compliance and environmental stewardship  
 
+# Require Employees to Take Ethics Training
+
+The ancient Greek philosophers believed that personal convictions about right and wrong behavior could be improved through education. Today, most psychologists agree with them.  
+
+Lawrence Kohlberg, the late Harvard psychologist, found that many factors stimulate a person’s moral development, but one of the most crucial is **education**. Other researchers have repeatedly supported the idea that people can continue their moral development through further education, such as working through case studies and examining contemporary issues.
+
+---
+
+## Promoting the Code of Ethics Through Training
+An organization’s code of ethics must be **promoted and continually communicated** within the organization, from the top to the bottom.  
+
+Organizations can do this by:  
+- Showing employees examples of how to apply the code of ethics in real life  
+- Implementing comprehensive **ethics education programs** that encourage responsible and ethical behavior  
+
+Such programs are often:  
+- Presented in small workshop formats  
+- Based on applying the organization’s code of ethics to **hypothetical but realistic case studies**  
+- Including examples of recent company decisions guided by the code of ethics  
+
+---
+
+## Goals of Ethics Training
+A critical goal of ethics training is to increase the percentage of employees who **report incidents of misconduct**.  
+
+Employees must be:  
+- Shown effective ways to report misconduct  
+- Reassured that reports will be acted upon  
+- Guaranteed protection from retaliation  
+
+---
+
+## Ethics Training in Practice
+In its 2013 National Business Ethics Survey, the **Ethics Resource Center** reported that **81%** of surveyed organizations provide ethics training.*  
+
+### Example: IBM
+- IBM employees worldwide take part in an online **Business Conduct Guidelines** course and certification, available in over two dozen languages.  
+- The training presents real-world scenarios employees may face in business.  
+- Senior IBM leaders sponsor **integrity summits** emphasizing leadership’s role in creating an ethical culture.  
+- The summits help employees identify compliance risks and actions to mitigate them.  
+- IBM also provides online ethics and integrity training to nearly 20,000 employees of IBM’s partners and suppliers globally.*
+
+---
+
+## Benefits of Formal Ethics Training
+Formal ethics training:  
+- Increases awareness of a company’s code of ethics and its application  
+- Demonstrates the company’s intention to operate ethically  
+- Can reduce the company’s liability in legal actions  
+
 
 ---
 
