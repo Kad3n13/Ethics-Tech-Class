@@ -910,6 +910,33 @@ You must gather and analyze **facts** to develop a good problem statement:
 
 > ⚠️ Simple situations can sometimes turn into complex controversies because no one takes the time to gather and analyze the real facts.
 
+## Identify Alternatives
+
+During this stage of decision making, it is ideal to **enlist the help of others**, including stakeholders, to identify several alternative solutions to the problem.  
+
+- **Brainstorming with others** will increase your chances of:  
+  - Identifying a broad range of alternatives.  
+  - Determining the best solution.  
+
+However, there may be times when it is inappropriate to involve others in solving a problem that you are **not at liberty to discuss**.  
+
+---
+
+### Providing Information
+When sharing information about the problem with participants:  
+- Offer **just the facts**, without your opinion.  
+- Avoid influencing others to accept your preferred solution.  
+
+---
+
+### Brainstorming Guidelines
+During any brainstorming process:  
+- **Do NOT be critical** of ideas.  
+  - Negative criticism will tend to shut down the discussion.  
+  - The flow of ideas will dry up.  
+- Simply write down the ideas as they are suggested.  
+- Ask questions only to **gain a clearer understanding** of the proposed solution.  
+
 
 ---
 
