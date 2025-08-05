@@ -1225,6 +1225,56 @@ You can incorporate ethical considerations by:
 - Greater reliance on **information systems** in all aspects of life.  
 - In recent IT advancements, **ethics and human values** have been underemphasized, creating serious risks and consequences.  
 
+# Key Terms
+
+- **Bathsheba Syndrome**  
+  The ethical failure of successful people who lose their moral bearings due to overconfidence, entitlement, or abuse of power.  
+
+- **Code of Ethics**  
+  A formal document that outlines an organization's principles, values, and expected ethical behaviors.  
+
+- **Corporate Compliance Officer**  
+  An individual responsible for ensuring that an organization adheres to legal regulations and internal policies.  
+
+- **Corporate Ethics Officer**  
+  A senior official who oversees the development, implementation, and monitoring of ethical programs and policies within an organization.  
+
+- **Corporate Social Responsibility (CSR)**  
+  The concept that organizations should act ethically and take responsibility for the impact of their actions on stakeholders, including shareholders, consumers, employees, the community, the environment, and suppliers.  
+
+- **Ethics**  
+  A code of behavior defined by the group or society to which an individual belongs.  
+
+- **Integrity**  
+  Adherence to moral and ethical principles; acting in accordance with a personal code of values.  
+
+- **Law**  
+  A system of rules, enforced by institutions such as the police and courts, that dictates what people can and cannot do.  
+
+- **Morals**  
+  Personal principles that guide an individual’s judgment of right and wrong.  
+
+- **Problem Statement**  
+  A clear and concise description of an issue that identifies what needs to be addressed.  
+
+- **Social Audit**  
+  A review that evaluates an organization’s social responsibility performance and ethical behavior.  
+
+- **Software Piracy**  
+  The illegal copying, distribution, or use of software.  
+
+- **Supply Chain Sustainability**  
+  The practice of managing supply chains in a way that meets present needs without compromising future generations' ability to meet theirs.  
+
+- **Stakeholder**  
+  Any individual or group affected by an organization’s actions, decisions, or policies.  
+
+- **Vice**  
+  A moral failing or bad habit that goes against ethical or virtuous behavior.  
+
+- **Virtue**  
+  A commendable quality or trait that reflects moral excellence and ethical behavior.  
+
 
 ---
 
