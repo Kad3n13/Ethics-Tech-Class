@@ -724,6 +724,29 @@ Formal ethics training:
 - Demonstrates the company’s intention to operate ethically  
 - Can reduce the company’s liability in legal actions  
 
+# Include Ethical Criteria in Employee Appraisals
+
+Managers play a key role in helping employees meet performance expectations by monitoring behavior and providing feedback.  
+
+Increasingly, managers are **including ethical conduct as part of employee performance appraisals**.  
+
+Criteria related to ethical conduct often include:  
+- Treating others **fairly and with respect**  
+- Operating effectively in a **multicultural environment**  
+- Accepting **personal accountability** for meeting business needs  
+- Continually **developing others and themselves**  
+- Operating **openly and honestly** with suppliers, customers, and coworkers  
+
+These ethical factors are considered alongside traditional appraisal criteria such as:  
+- Overall contribution to advancing the business  
+- Successful completion of projects and tasks  
+- Maintenance of good customer relations  
+
+---
+
+## Survey Insight
+A recent survey found that about **two-thirds of organizations** include ethical conduct as a performance measure in employee evaluations.*
+
 
 ---
 
