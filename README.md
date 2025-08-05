@@ -370,6 +370,283 @@ On the other hand, businesses that are not socially responsible run the risk of 
 On the other hand, bad ethics can lead to bad business results. Bad ethics can have a negative impact on employees, many of whom may develop negative attitudes if they perceive a difference between their own values and those stated or implied by an organization’s actions. In such an environment, employees may suppress their tendency to act in a manner that seems ethical to them and instead act in a manner that will protect them against anticipated punishment. When such a discrepancy between employee and organizational ethics occurs, it destroys employee commitment to organizational goals and objectives, creates low morale, fosters poor performance, erodes employee involvement in organizational improvement initiatives, and builds indifference to the organization’s needs. 
 
 > <h2>BOOKMARK(pg)[16]</h2>
+
+# Protecting the Organization and Its Employees from Legal Action
+
+In a 1909 ruling (*United States v. New York Central & Hudson River Railroad Co.*), the U.S. Supreme Court established that an employer can be held responsible for the acts of its employees even if the employees act in a manner contrary to corporate policy and their employer’s directions.  
+The principle established is called **respondeat superior**, or “let the master answer.”
+
+When it was uncovered that employees of **Wells Fargo Bank** opened over **2 million bogus credit card accounts** not authorized by its customers, the bank was fined **over $185 million** and ordered to pay customers full restitution for any fees or charges they may have incurred.  
+The practice began at least as early as 2011 and was an attempt by thousands of bank employees to achieve their sales targets for **cross-selling** and be rewarded with higher sales bonuses.  
+
+> **Cross-selling** is the practice of selling multiple products to existing customers—savings account, checking account, auto loan, mortgage, credit card, etc. Cross-selling to existing customers is cheaper than locating and selling to brand new customers. It also tends to lock existing customers into your bank.
+
+A coalition of several legal organizations, including:  
+- Association of Corporate Counsel  
+- U.S. Chamber of Commerce  
+- National Association of Manufacturers  
+- National Association of Criminal Defense Lawyers  
+- New York State Association of Criminal Defense Lawyers  
+
+argues that organizations should “be able to escape criminal liability if they have acted as responsible corporate citizens, making strong efforts to prevent and detect misconduct in the workplace.”
+
+One way to do this is to establish effective **ethics and compliance programs**. However, some people argue that officers of companies should not be given light sentences if their ethics programs fail to deter criminal activity within their firms.  
+
+I believe the **government should also enforce and support these programs** because it makes the process more transparent and helps people in need.
+
+# How Organizations Can Improve Their Ethics
+
+Research by the **Ethics Resource Center (ERC)** found that **86%** of the employees in companies with a well-implemented ethics and compliance program are likely to perceive a strong ethical culture within the company, while **less than 25%** of employees in companies with little to no program are likely to perceive a culture that promotes integrity in the workplace.  
+
+A well-implemented ethics and compliance program and a strong ethical culture can, in turn:  
+- Reduce pressure on employees to misbehave  
+- Decrease observed misconduct  
+- Create an environment where employees are more comfortable reporting instances of misconduct  
+
+This is partly because there is **less fear of potential retaliation** by management against reporters (e.g., reduced hours, transfers to less desirable jobs, and delays in promotions).  
+See **Figure 1-5**.
+
+---
+
+## Figure 1-5: Reducing the Risk of Unethical Behavior
+**Details:**
+A flowchart depicts how programs help reduce the risk of unethical behavior:  
+1. **Driver 1:** Well-implemented program →  
+2. **Driver 2:** Strong ethical culture →  
+   - Reduced pressure for misconduct  
+   - Decrease in observed misconduct  
+   - Increased reporting of misconduct  
+   - Reduced retaliation for reporting  
+
+> **Note:** Reduced pressure for misconduct leads to a decrease in observed misconduct.  
+> Reduced retaliation for reporting leads to increased reporting of misconduct.  
+> These four outcomes together achieve the goal of **reduced ethics risk**.
+
+**Source:** [Ethics Resource Center, 2011 National Business Ethics Survey: Workplace Ethics in Transition](https://s3.amazonaws.com/berkley-center/120101NationalBusinessEthicsSurvey2011WorkplaceEthicsinTransition.pdf)
+
+---
+
+## Characteristics of a Successful Ethics Program
+The Ethics Resource Center has defined the following characteristics of a successful ethics program:
+- Employees are willing to seek advice about ethics-related issues.
+- Employees feel prepared to handle situations that could lead to misconduct.
+- Employees are rewarded for ethical behavior.
+- The organization does not reward success obtained through questionable means.
+- Employees feel positively about their company.
+
+---
+
+## Table 1-3: Conclusions from the 2013 National Business Ethics Survey
+
+| Finding | 2007 | 2009 | 2011 | 2013 |
+|---------|------|------|------|------|
+| Percentage of employees who witnessed a violation of the law or ethics standards on the job | 56% | 49% | 45% | 41% |
+| Percentage of employees who reported misconduct when they saw it | 58% | 63% | 65% | 63% |
+| Percentage of employees who felt pressure to commit an ethics violation | 10% | 8% | 13% | 9% |
+| Percentage of employees who say their business has a weak ethics culture | 39% | 35% | 42% | 36% |
+
+**Source:** [Ethics and Compliance Initiative, National Business Ethics Survey 2013](https://lowellmilkeninstitute.law.ucla.edu/wp-content/uploads/2015/10/Thomas-Jordan_Ethics-Resource-Center-National-Business-Ethics-of-the-U.S.-Workplace.pdf)
+
+
+
+---
+
+## Areas of Concern
+In addition to reporting positive trends in workplace ethics, the survey also highlighted areas of concern:
+- **21%** of those who reported misconduct stated they suffered retribution from their supervisor or negative reactions from coworkers.  
+  > This amounts to an estimated **6.2 million American workers** who faced backlash for reporting misconduct.
+
+---
+
+## Conclusion
+The risk of unethical behavior is increasing, making it crucial for companies to **improve business ethics**.  
+The following sections explain specific actions corporations can take to strengthen workplace ethics.
+
+# How Organizations Can Improve Their Ethics
+
+Research by the **Ethics Resource Center (ERC)** found that **86%** of the employees in companies with a well-implemented ethics and compliance program are likely to perceive a strong ethical culture within the company, while **less than 25%** of employees in companies with little to no program are likely to perceive a culture that promotes integrity in the workplace.  
+
+A well-implemented ethics and compliance program and a strong ethical culture can, in turn:  
+- ✅ Reduce pressure on employees to misbehave  
+- ✅ Decrease observed misconduct  
+- ✅ Create an environment where employees are more comfortable reporting instances of misconduct  
+
+This is partly because there is **less fear of potential retaliation** by management against reporters (e.g., reduced hours, transfers to less desirable jobs, and delays in promotions).  
+See **Figure 1-5**.
+
+---
+
+## 📊 Figure 1-5: Reducing the Risk of Unethical Behavior
+**Details:**  
+A flowchart depicts how programs help reduce the risk of unethical behavior:  
+1. **Driver 1:** Well-implemented program →  
+2. **Driver 2:** Strong ethical culture →  
+   - Reduced pressure for misconduct  
+   - Decrease in observed misconduct  
+   - Increased reporting of misconduct  
+   - Reduced retaliation for reporting  
+
+> **Note:**  
+> - Reduced pressure for misconduct → Decrease in observed misconduct  
+> - Reduced retaliation for reporting → Increased reporting of misconduct  
+>
+> These four outcomes together achieve the goal of **reduced ethics risk**.
+
+**Source:** [Ethics Resource Center, 2011 National Business Ethics Survey: Workplace Ethics in Transition](https://s3.amazonaws.com/berkleycenter/120101NationalBusinessEthicsSurvey2011WorkplaceEthicsinTransition.pdf)
+
+---
+
+## ✅ Characteristics of a Successful Ethics Program
+The Ethics Resource Center has defined the following characteristics of a successful ethics program:
+- Employees are willing to seek advice about ethics-related issues.  
+- Employees feel prepared to handle situations that could lead to misconduct.  
+- Employees are rewarded for ethical behavior.  
+- The organization does not reward success obtained through questionable means.  
+- Employees feel positively about their company.
+
+---
+
+## 📈 Table 1-3: Conclusions from the 2013 National Business Ethics Survey
+
+| Finding | 2007 | 2009 | 2011 | 2013 |
+|---------|------|------|------|------|
+| Percentage of employees who witnessed a violation of the law or ethics standards on the job | 56% | 49% | 45% | 41% |
+| Percentage of employees who reported misconduct when they saw it | 58% | 63% | 65% | 63% |
+| Percentage of employees who felt pressure to commit an ethics violation | 10% | 8% | 13% | 9% |
+| Percentage of employees who say their business has a weak ethics culture | 39% | 35% | 42% | 36% |
+
+**Source:** [Ethics and Compliance Initiative, National Business Ethics Survey 2013](https://lowellmilkeninstitute.law.ucla.edu/wp-content/uploads/2015/10/Thomas-Jordan_Ethics-Resource-Center-National-Business-Ethics-of-the-U.S.-Workplace.pdf)
+
+---
+
+## ⚠ Areas of Concern
+In addition to reporting positive trends in workplace ethics, the survey also highlighted areas of concern:
+- **21%** of those who reported misconduct stated they suffered retribution from their supervisor or negative reactions from coworkers.  
+  > This amounts to an estimated **6.2 million American workers** who faced backlash for reporting misconduct.
+
+---
+
+## 🏢 Conclusion
+The risk of unethical behavior is increasing, making it crucial for companies to **improve business ethics**.  
+The following sections explain specific actions corporations can take to strengthen workplace ethics.
+
+
+# Appoint a Corporate Ethics Officer
+
+A **corporate ethics officer** (also called a **corporate compliance officer**) provides an organization with vision and leadership in the area of business conduct. This individual “aligns the practices of a workplace with the stated ethics and beliefs of that workplace, holding people accountable to ethical standards.”*
+
+Organizations send a clear message to employees about the importance of ethics and compliance in their decision about **who will be in charge of the effort** and **to whom that individual will report**.  
+Ideally, the corporate ethics officer should be a **well-respected, senior-level manager** who reports directly to the **CEO**. Ethics officers come from diverse backgrounds, such as:  
+- Legal staff  
+- Human resources  
+- Finance  
+- Auditing  
+- Security  
+- Line operations  
+
+---
+
+## History of Ethics Officer Appointments
+A rapid increase in the appointment of corporate ethics officers typically follows the revelation of a major business scandal:  
+1. **Late 1980s:** First wave of appointments after defense-contracting scandals during Ronald Reagan’s administration, where firms used bribes to gain insider information for contract bids.  
+2. **Early 1990s:** Another spike followed federal sentencing guidelines that allowed **preferential treatment during prosecutions for white-collar crimes** for companies with effective compliance and ethics programs.  
+3. **Early 2000s:** A surge occurred after major accounting scandals.  
+4. **Post-2008:** Yet another increase followed the mortgage loan scandals.
+
+---
+
+## Criticism of the Ethics Officer Role
+The ethics officer position has critics:  
+- **Concern:** Appointing one person might lead others in the organization to believe they have **no personal responsibility** for ethics.  
+- **Counterpoint:** Odell Guyton, long-time director of compliance at Microsoft, argues:  
+  > “A point person for ethics is necessary. Otherwise, how are you going to make sure it’s being done, when people have other core responsibilities? That doesn’t mean it’s on the shoulders of the compliance person alone.”  
+
+---
+
+## Key Responsibilities of a Corporate Ethics Officer
+An ethics officer typically works to establish an environment that encourages ethical decision-making by:  
+- **Ensuring compliance:** Implementing and maintaining ethical procedures across the organization.  
+- **Creating and maintaining an ethics culture:** Aligning corporate behavior with the values set by top-level leadership.  
+- **Serving as a key contact:** Acting as the main resource and authority for corporate ethics and principles.  
+
+---
+
+## Conclusion
+Simply naming a corporate ethics officer does **not automatically improve an organization’s ethics**.  
+Hard work, strong leadership, and ongoing support are required to establish and maintain a successful organizational ethics program.
+
+# Establish a Corporate Code of Ethics
+
+A **code of ethics** is a statement that highlights an organization’s key ethical issues and identifies the overarching values and principles that are important to the organization and its decision making.  
+
+Codes of ethics frequently include formal, written statements about:  
+- The **purpose** of an organization  
+- Its **values**  
+- The **principles** that should guide employee actions  
+
+An organization’s code of ethics applies to its directors, officers, and employees, and it should:  
+- Focus employees on areas of **ethical risk** related to their roles  
+- Provide **guidance** to help them recognize and deal with ethical issues  
+- Offer **mechanisms for reporting unethical conduct**  
+- Foster a **culture of honesty and accountability** within the organization  
+
+An effective code of ethics helps ensure that employees abide by the law, follow necessary regulations, and behave in an ethical manner.
+
+---
+
+## Implementation of a Code of Ethics
+A code of ethics cannot gain company-wide acceptance unless:  
+- It is developed with **employee participation**  
+- It is **fully endorsed** by the organization’s leadership  
+- It is easily accessible to **employees, shareholders, business partners, and the public**  
+
+The code of ethics must:  
+- Be **applied continually** in company decision making  
+- Be **emphasized as part of company culture**  
+- Enforce consequences for breaches, ensuring its relevance is not undermined
+
+---
+
+## Corporate Responsibility Rankings
+Each year, **Corporate Responsibility magazine** rates publicly held U.S. companies based on ethical performance in categories such as:  
+- Environment  
+- Climate change  
+- Human rights  
+- Employee relations  
+- Corporate governance  
+- Philanthropy and community support  
+- Financial performance  
+
+**Intel Corporation**, the world’s largest chipmaker, has ranked in the **top 25 every year** since the list began in 2000 and was ranked **second in 2016**, making it one of the most ethical companies in the IT industry.
+
+---
+
+## Intel’s Code of Conduct
+Intel’s Code of Conduct (see Figure 1-6) applies to:  
+- All Intel employees  
+- Intel’s subsidiaries  
+- Non-employee members of the Board of Directors regarding their Intel-related activities  
+- Independent contractors, consultants, suppliers, and others doing business with Intel  
+
+Each employee is responsible for:  
+- Reading, understanding, and following the Code  
+- Accepting that violations may result in **disciplinary action**, up to and including termination  
+- Recognizing that legal violations may result in **civil or criminal penalties**
+
+---
+
+## Figure 1-6: Intel Code of Conduct Principles
+Intel’s Code of Conduct affirms five core principles:
+
+1. **Conduct business with honesty and integrity.**  
+2. **Follow the letter and spirit of the law.**  
+3. **Treat each other fairly.**  
+4. **Act in the best interests of Intel and avoid conflicts of interest.**  
+5. **Protect the company’s assets and reputation.**
+
+**Source:** [Intel Code of Conduct (PDF)](http://www.intel.com/content/dam/www/public/us/en/documents/corporate-information/policy-code-conduct-corporate-information.pdf)
+
+
 ---
 
 # Ethics of Computing and Technology  
