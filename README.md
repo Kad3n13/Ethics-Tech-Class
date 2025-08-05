@@ -1144,6 +1144,87 @@ During a meeting, the CIO outlines what needs to be done to improve the firm’s
 ### Question:
 **What serious mistake has the CIO made, and how could this have been avoided?**
 
+# Summary
+
+---
+
+## What is Ethics?
+- **Ethics** is a code of behavior defined by the group to which an individual belongs.  
+- **Morals** are the personal principles upon which an individual bases decisions about what is right and wrong.  
+- A person who acts with **integrity** follows a personal code of principles.  
+- **Law** is a system of rules that defines what we can and cannot do, enforced by institutions such as the police, courts, and law-making bodies.  
+- A **code of ethics** states the principles and core values that are essential to one’s work.  
+- ⚠️ Just because an activity is legal does not mean it is ethical.  
+
+---
+
+## What Trends Have Increased the Likelihood of Unethical Behavior?
+- **Globalization** has created a complex work environment, making it difficult to apply ethical principles consistently.  
+- Organizations may be tempted to act **unethically** to maintain profits in today’s challenging and uncertain economic climate.  
+- Powerful, highly successful individuals may fail to act morally because:  
+  - They are often aggressive in striving for what they want.  
+  - They have privileged access to information, people, and resources.  
+  - Their success may inflate their belief that they can manipulate outcomes.
+
+---
+
+## What is Corporate Social Responsibility (CSR) and Why is Fostering Good Business Ethics Important?
+- **Corporate Social Responsibility (CSR):**  
+  - The concept that an organization should act ethically by taking responsibility for the impact of its actions on stakeholders: shareholders, consumers, employees, the community, the environment, and suppliers.  
+
+- **Supply Chain Sustainability:**  
+  - A component of CSR focused on developing and maintaining a supply chain that meets current needs without compromising the ability of future generations to meet theirs.  
+
+- **CSR Priorities:**  
+  - Each organization must decide if CSR is a priority and define specific CSR goals.  
+
+- **Five Reasons for Pursuing CSR and Promoting Ethical Behavior:**  
+  1. To gain the goodwill of the community.  
+  2. To create an organization that operates consistently.  
+  3. To foster good business practices.  
+  4. To protect the organization and employees from legal action.  
+  5. To avoid unfavorable publicity.  
+
+---
+
+## What Measures Can Organizations Take to Improve Their Business Ethics?
+Organizations can take several actions to improve business ethics:  
+- Appoint a **corporate ethics officer**.  
+- Require the **board of directors** to set and model high ethical standards.  
+- Establish a **corporate code of ethics**.  
+- Conduct **social audits**.  
+- Require employees to take **ethics training**.  
+- Include **ethical criteria** in employee performance appraisals.  
+- Create an **ethical work environment**.  
+
+---
+
+## How Can You Include Ethical Considerations in Your Decision Making?
+Many people follow a simple decision-making model:  
+1. Define the problem.  
+2. Identify alternatives.  
+3. Choose an alternative.  
+4. Implement the decision.  
+5. Monitor the results.  
+
+You can incorporate ethical considerations by:  
+- Identifying and involving **stakeholders**.  
+- Weighing relevant **laws, guidelines, and principles** (including the organization’s code of ethics).  
+- Considering the **impact** of the decision on:  
+  - Yourself  
+  - Your organization  
+  - Stakeholders  
+  - Customers and suppliers  
+  - The environment  
+
+---
+
+## What Trends Have Increased the Risk of Unethical IT Use?
+- The growth of the **Internet** and **social networks**.  
+- The ability to **capture, store, and analyze** vast amounts of personal data.  
+- Greater reliance on **information systems** in all aspects of life.  
+- In recent IT advancements, **ethics and human values** have been underemphasized, creating serious risks and consequences.  
+
 
 ---
 
