@@ -824,6 +824,39 @@ Audit your most recent place of employment using the checklist above.
 - What is your employer’s score?  
 - What changes would you like to see to improve that score?  
 
+# Including Ethical Considerations in Decision Making
+
+We are all faced with difficult decisions in our work and in our personal life. Most of us have developed a decision-making process that we execute automatically, without thinking about the steps we go through. For many of us, the process generally follows the steps outlined in **Figure 1-7**.
+
+---
+
+## Figure 1-7: A Five-Step Ethical Decision-Making Process
+
+A stairway representation illustrates the following five steps in an ethical decision-making process:
+
+1. **Develop Problem Statement**  
+   - Don’t make assumptions.  
+   - Verify “facts.”  
+
+2. **Identify Alternatives**  
+   - Enlist help of others.  
+
+3. **Choose Alternative**  
+   - Defensible and consistent.  
+   - Consider impact on others.  
+
+4. **Implement Decision**  
+   - Create a transition plan.  
+
+5. **Evaluate Results**  
+   - Poor alternative?  
+   - Bad implementation?  
+
+---
+
+The following sections discuss this decision-making process further and point out where and how **ethical considerations** need to be brought into the process.
+
+
 ---
 
 # Ethics of Computing and Technology  
