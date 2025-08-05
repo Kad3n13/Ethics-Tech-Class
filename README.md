@@ -937,6 +937,51 @@ During any brainstorming process:
 - Simply write down the ideas as they are suggested.  
 - Ask questions only to **gain a clearer understanding** of the proposed solution.  
 
+## Choose Alternative
+
+Once a set of alternatives has been identified, the group must **evaluate them based on numerous criteria**, such as:  
+
+- **Effectiveness** in addressing the issue.  
+- **Risks** associated with each alternative.  
+- **Cost** to implement.  
+- **Time** required for implementation.  
+
+> ⚠️ An alternative that sounds attractive but is **not feasible** will not help solve the problem.
+
+---
+
+### Legal and Ethical Considerations
+As part of the evaluation process, it is critical to weigh various laws, guidelines, and principles:  
+
+- **Legal compliance:**  
+  - Avoid violating any laws that may result in fines or imprisonment.  
+- **Corporate policies:**  
+  - Check if company guidelines apply.  
+- **Code of ethics:**  
+  - Review your organization's ethical standards.  
+- **Personal morals:**  
+  - Reflect on your own values.
+
+---
+
+### Evaluating Consequences
+Consider the likely impact of each alternative from multiple perspectives:  
+- On **you**.  
+- On **your organization**.  
+- On **other stakeholders** (including suppliers and customers).  
+- On **the environment**.  
+
+> Ask yourself: **Does this alternative do less harm than the other options?**
+
+---
+
+### Criteria for Selection
+The selected alternative should:  
+- Be **ethically and legally defensible** to coworkers, peers, and your profession’s governing body of ethics.  
+- Be **consistent with organizational policies** and code of ethics.  
+- Take into account the **impact on others**.  
+- Provide a **practical and effective solution** to the problem.  
+
 
 ---
 
