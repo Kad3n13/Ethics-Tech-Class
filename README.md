@@ -862,31 +862,53 @@ We are all faced with difficult decisions in our work and in our personal life. 
 
 ---
 
-## Figure 1-7: A Five-Step Ethical Decision-Making Process
+## Develop Problem Statement
 
-> A stairway representation illustrates the following five steps in an ethical decision-making process:
+A **problem statement** is a clear, concise description of the issue that needs to be addressed.  
+A good problem statement answers the following questions:  
 
-### 1. Develop Problem Statement  
-- Don’t make assumptions.  
-- Verify the **facts**.  
-
-### 2. Identify Alternatives  
-- Enlist the help of others.  
-
-### 3. Choose Alternative  
-- Ensure it is defensible and consistent.  
-- Consider the impact on others.  
-
-### 4. Implement Decision  
-- Create a clear transition plan.  
-
-### 5. Evaluate Results  
-- Was it a poor alternative?  
-- Was there a problem with implementation?  
+- What do people observe that causes them to think there is a problem?  
+- Who is directly affected by the problem?  
+- Is anyone else affected?  
+- How often does the problem occur?  
+- What is the impact of the problem?  
+- How serious is the problem?  
 
 ---
 
-The following sections discuss this decision-making process further and point out where and how **ethical considerations** need to be brought into the process.
+### Importance of a Problem Statement
+Development of a problem statement is the **most critical step** in the decision-making process.  
+Without a clear statement of the problem or the decision to be made, it is useless to proceed.  
+If the problem is stated incorrectly, the chances of solving the real problem are greatly diminished.  
+
+---
+
+### Examples
+
+- **Good Problem Statement:**  
+  > Our product supply organization is continually running out of stock of finished products,  
+  > creating an out-of-stock situation on over 15% of our customer orders,  
+  > resulting in over **$300,000 in lost sales per month.**
+
+- **Poor Problem Statement:**  
+  > We need to implement a new inventory control system.  
+  > *(This is a possible solution, not a problem statement. Pursuing this course of action will surely  
+  > be expensive and time-consuming and may or may not solve the underlying problem.)*
+
+- **Poor Problem Statement:**  
+  > We need to install cameras and monitoring equipment to put an end to theft of finished product in the warehouse.  
+  > *(Again, this is a possible solution, not a problem statement. And are there sufficient facts to support  
+  > the hypothesis of theft in the warehouse?)*
+
+---
+
+### Key Considerations
+You must gather and analyze **facts** to develop a good problem statement:  
+- Seek information and opinions from a variety of people to broaden your frame of reference.  
+- Avoid making assumptions about the situation.  
+- Carefully check key facts for validity.  
+
+> ⚠️ Simple situations can sometimes turn into complex controversies because no one takes the time to gather and analyze the real facts.
 
 
 ---
