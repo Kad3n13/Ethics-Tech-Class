@@ -747,6 +747,82 @@ These ethical factors are considered alongside traditional appraisal criteria su
 ## Survey Insight
 A recent survey found that about **two-thirds of organizations** include ethical conduct as a performance measure in employee evaluations.*
 
+# Create an Ethical Work Environment
+
+Most employees want to perform their jobs successfully and ethically, but even good employees sometimes make bad ethical choices.  
+
+Employees in highly competitive workplaces often feel pressure from:  
+- Aggressive competitors  
+- Cutthroat suppliers  
+- Unrealistic budgets  
+- Unforgiving quotas  
+- Tight deadlines  
+- Bonus incentives  
+
+In such environments, employees may be encouraged to do “whatever it takes” to get the job done. Without a corporate code of ethics or strong senior management examples, some may feel pressured to engage in unethical conduct to meet expectations.
+
+---
+
+## The Boss’s Influence
+
+The most important influence on how employees act is their perception of their **immediate boss’s expectations**.  
+
+- If the boss clearly expects that **compliance failures and ethical lapses will not be tolerated**, employees are less likely to fail.
+
+---
+
+## Examples of Managerial Behavior That Encourage Unethical Conduct
+
+- A manager sets and holds people accountable to meet “stretch” goals, quotas, and budgets, causing employees to think:  
+  *“My boss wants results, not excuses, so I have to cut corners to meet the goals.”*
+
+- A manager fails to provide a corporate code of ethics and operating principles, leading employees to think:  
+  *“Because the company has no guidelines, I don’t think my conduct is really wrong or illegal.”*
+
+- A manager sets a poor ethical example, causing employees to think:  
+  *“I’ve seen successful people take unethical actions without negative repercussions.”*
+
+- Managers fail to hold people accountable for unethical actions, so employees think:  
+  *“No one will know the difference, and if they do, so what?”*
+
+- Managers overwhelm new employees with thick policy binders and tell them to read and sign them when they have time. Employees think:  
+  *“This is overwhelming. Can’t they just give me the essentials?”*
+
+---
+
+## Table 1-4: Manager’s Checklist for Establishing an Ethical Work Environment
+
+| Question | Yes | No |
+|----------|-----|----|
+| Does your organization have a code of ethics? |  |  |
+| Do employees know how and to whom to report infractions? |  |  |
+| Do employees feel they can report violations safely without fear of retaliation? |  |  |
+| Do employees feel action will be taken against violators? |  |  |
+| Do senior managers set an example by communicating and using the code of ethics? |  |  |
+| Do managers provide feedback on employees’ adherence to ethical values and principles? |  |  |
+| Are employees aware of sanctions for breaching the code of ethics? |  |  |
+| Do employees use the code of ethics in their decision making? |  |  |
+
+---
+
+## Providing a Knowledgeable Resource for Ethics Issues
+
+Employees must have a **trusted resource** to discuss perceived unethical practices.  
+
+**Example: Intel**  
+- Employees are encouraged to report suspected violations to managers, Legal or Internal Audit Departments, or business unit legal counsel.  
+- Violations can also be reported anonymously via an internal ethics website.  
+- Senior management clearly states that employees can report without fear of reprisal or retaliation.
+
+---
+
+## Critical Thinking Exercise: How Does Your Employer Rate?
+
+Audit your most recent place of employment using the checklist above.  
+
+- Assign one point for each “yes” answer.  
+- What is your employer’s score?  
+- What changes would you like to see to improve that score?  
 
 ---
 
