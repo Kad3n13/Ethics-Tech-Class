@@ -646,76 +646,33 @@ Intel’s Code of Conduct affirms five core principles:
 
 **Source:** [Intel Code of Conduct (PDF)](http://www.intel.com/content/dam/www/public/us/en/documents/corporate-information/policy-code-conduct-corporate-information.pdf)
 
-# Establish a Corporate Code of Ethics
+# Conduct Social Audits
 
-A **code of ethics** is a statement that highlights an organization’s key ethical issues and identifies the overarching values and principles that are important to the organization and its decision making.  
+An increasing number of organizations conduct regular **social audits** of their policies and practices.  
 
-Codes of ethics frequently include formal, written statements about:  
-- The **purpose** of an organization  
-- Its **values**  
-- The **principles** that should guide employee actions  
+In a social audit, an organization:  
+- Reviews how well it is meeting its **ethical and social responsibility goals**  
+- Communicates its **new goals** for the upcoming year  
 
-An organization’s code of ethics applies to its **directors, officers, and employees**, and it should:  
-- Focus employees on areas of **ethical risk** related to their roles  
-- Provide **guidance** to help them recognize and deal with ethical issues  
-- Offer **mechanisms for reporting unethical conduct**  
-- Foster a **culture of honesty and accountability** within the organization  
-
-> An effective code of ethics helps ensure that employees abide by the law, follow necessary regulations, and behave in an ethical manner.
-
----
-
-## Implementation of a Code of Ethics
-A code of ethics cannot gain company-wide acceptance unless:  
-- It is developed with **employee participation**  
-- It is **fully endorsed** by the organization’s leadership  
-- It is easily accessible to **employees, shareholders, business partners, and the public**  
-
-The code of ethics must:  
-- Be **applied continually** in company decision making  
-- Be **emphasized as part of company culture**  
-- Enforce consequences for breaches, ensuring its relevance is not undermined  
+This information is shared with:  
+- Employees  
+- Shareholders  
+- Investors  
+- Market analysts  
+- Customers  
+- Suppliers  
+- Government agencies  
+- The communities in which the organization operates  
 
 ---
 
-## Corporate Responsibility Rankings
-Each year, **Corporate Responsibility magazine** rates publicly held U.S. companies based on ethical performance in categories such as:  
-- Environment  
-- Climate change  
-- Human rights  
-- Employee relations  
-- Corporate governance  
-- Philanthropy and community support  
-- Financial performance  
-
-**Intel Corporation**, the world’s largest chipmaker, has ranked in the **top 25 every year** since the list began in 2000 and was ranked **second in 2016**, making it one of the most ethical companies in the IT industry.
-
----
-
-## Intel’s Code of Conduct
-Intel’s Code of Conduct (see Figure 1-6) applies to:  
-- All Intel employees  
-- Intel’s subsidiaries  
-- Non-employee members of the Board of Directors regarding their Intel-related activities  
-- Independent contractors, consultants, suppliers, and others doing business with Intel  
-
-Each employee is responsible for:  
-- Reading, understanding, and following the Code  
-- Accepting that violations may result in **disciplinary action**, up to and including termination  
-- Recognizing that legal violations may result in **civil or criminal penalties**
-
----
-
-## Figure 1-6: Intel Code of Conduct Principles
-Intel’s Code of Conduct affirms five core principles:
-
-1. **Conduct business with honesty and integrity.**  
-2. **Follow the letter and spirit of the law.**  
-3. **Treat each other fairly.**  
-4. **Act in the best interests of Intel and avoid conflicts of interest.**  
-5. **Protect the company’s assets and reputation.**
-
-**Source:** [Intel Code of Conduct (PDF)](http://www.intel.com/content/dam/www/public/us/en/documents/corporate-information/policy-code-conduct-corporate-information.pdf)
+## Example: Dell’s Social Audits  
+As part of an ongoing effort to engrain socially responsible business behavior into all activities, key **Dell suppliers** undergo:  
+- Quarterly reviews of their **social and environmental progress**  
+- Assessments including:  
+  - Audit performance data  
+  - Policy compliance evaluation  
+  - Specific implementation plans for suppliers’ own programs in compliance and environmental stewardship  
 
 
 ---
