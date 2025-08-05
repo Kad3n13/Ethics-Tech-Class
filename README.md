@@ -1051,6 +1051,99 @@ If you're going to lose her, you'll need to find a replacement quickly.
 
 > **Task:** Follow the **Five-Step Ethical Decision-Making Process** to decide what your next steps should be.
 
+# Ethics in Information Technology
+
+The growth of the **Internet** and **social networks**; the ability to capture, store, and analyze vast amounts of personal data; and a greater reliance on information systems in all aspects of life have increased the risk that **information technology (IT)** will be used unethically.  
+
+In the midst of many IT breakthroughs in recent years, the importance of ethics and human values has been **underemphasized**—with significant consequences.  
+
+---
+
+## Examples of Ethical Concerns in IT
+1. **Government Surveillance:**  
+   - Governments worldwide have implemented systems that enable the surveillance of their citizens.  
+   - Struggles continue over how to achieve the proper **balance between privacy and security**.  
+
+2. **Employee Monitoring:**  
+   - Many employees have their email and Internet usage monitored at work.  
+   - Employers attempt to balance managing company assets and work time with **employees’ privacy**.  
+
+3. **Copyright Infringement:**  
+   - Millions of people download music and movies for free, violating copyright laws.  
+   - This causes tremendous financial losses to copyright owners.  
+
+4. **Unsolicited Marketing:**  
+   - Organizations contact millions of people worldwide through **unsolicited email and text messages**.  
+   - While low-cost, this method is **intrusive**.  
+
+5. **Hacking and Identity Theft:**  
+   - Hackers break into databases of financial and retail institutions to **steal customer information**.  
+   - Stolen data is then used for **identity theft**, such as opening fraudulent accounts.  
+
+6. **Academic Plagiarism:**  
+   - Students worldwide download material from the web and **plagiarize content** for term papers.  
+
+7. **Cookies and Spyware:**  
+   - Websites install **cookies** or **spyware** on visitors’ devices to track purchases and online activities.  
+
+---
+
+## Key Tenets of IT Ethics
+This text is based on two fundamental principles:
+
+### 1. Public Understanding of IT Ethics
+The general public must develop a better understanding of the **critical importance of ethics in IT**.  
+- Too much emphasis is currently placed on technical issues alone.  
+- IT has a **profound effect on society**, and IT professionals and end users must recognize this impact.  
+- Technology implementation and policies must consider **legal ramifications** and the **well-being of consumers**.
+
+### 2. Business Responsibility for Ethical Decisions
+Important business-technology decisions with strong ethical implications are often left solely to technical experts.  
+- Examples include:  
+  - What data to collect about customers.  
+  - Where and how to store it.  
+  - How to use it.  
+  - What level of security to implement.  
+
+General business managers must:  
+- Take **greater responsibility** for such decisions.  
+- Make **broad-minded, objective choices** based on:  
+  - Technical knowledge.  
+  - Business expertise.  
+  - High ethical standards.  
+- Create a working environment where **ethical dilemmas** can be discussed openly, objectively, and constructively.
+
+---
+
+## Goals of This Text
+This text aims to:  
+- **Educate** people about the impact of ethical issues in IT.  
+- **Motivate** decision-makers to recognize these issues in business contexts.  
+- Provide **tools, approaches, and insights** to support ethical decision-making.
+
+---
+
+## Critical Thinking Exercise: CIO Surprises CFO
+
+You are the **Chief Financial Officer (CFO)** of a midsized manufacturing firm with annual revenue exceeding **$100 million**.  
+
+- Three months ago, you hired a new **Chief Information Officer (CIO)**.  
+- You have heard nothing but **positive comments** about her performance.  
+
+During a meeting, the CIO outlines what needs to be done to improve the firm’s **computer security**. You are impressed with her **energy, enthusiasm, and presentation skills**, but your jaw drops when she reveals that the total cost will be **$250,000**.  
+
+### Concerns:
+- This amount seems high, especially since your firm has had **no major security incidents**.  
+- Several other budget items will need to be **cut or reduced** to accommodate this cost.  
+- The $250,000 exceeds your **spending authorization** and will require **CEO approval**.  
+- You will need to **defend this expenditure** to the CEO, but you are unsure how to do so.  
+- Other staff members in the meeting also appear **surprised** by the cost.
+
+---
+
+### Question:
+**What serious mistake has the CIO made, and how could this have been avoided?**
+
 
 ---
 
