@@ -1451,6 +1451,86 @@ You can incorporate ethical considerations by:
 - True  
 - False  
 
+# Multiple Choice Questions and Answers
+
+---
+
+### 1. Francis, a software engineer for a database management company, discovers a security flaw in an upcoming release. A colleague encourages Francis to keep this discovery quiet, as it may affect a tight release window. Francis disagrees, citing their duty to abide by a code of conduct.  
+**Which theory best exemplifies Francis’ reasoning?**
+
+- Deontology  
+- Utilitarianism  
+- Virtue ethics  
+- Relativism  
+
+**Answer:** Deontology  
+> Deontology is a duty-based ethical system, which focuses on rules rather than outcomes.
+
+---
+
+### 2. A car manufacturer decides to alter its emission testing to pass regulatory requirements. The emission reduction system is only used during tests. The system is not engaged during normal driving conditions to improve fuel efficiency, torque, and acceleration.  
+**Which step in the ethical decision-making process should have been used to evaluate the environmental impact of this decision?**
+
+- Evaluate results  
+- Develop a problem statement  
+- Implement decision  
+- Choose alternatives  
+
+**Answer:** Choose alternatives  
+> Evaluating the environmental impact should have been part of the step when alternatives were being considered.
+
+---
+
+### 3. A computer animator for a children’s show is reviewing the draft of script. In the script, the main character engages in behavior that seems to encourage dishonesty. The animator expresses a concern to the director, citing the need to help improve the moral character of all viewers.  
+**Which theory best exemplifies the animator’s reasoning?**
+
+- Deontology  
+- Virtue ethics  
+- Relativism  
+- Utilitarianism  
+
+**Answer:** Virtue ethics  
+> Virtue ethics focuses on moral development and formation of good habits, relating directly to moral character.
+
+---
+
+### 4. A manager for a cybersecurity company is preparing an employee for an upcoming sales trip. The manager advises the employee to use their company card to host expensive dinners and entertainment for potential clients. The employee is concerned about whether this aligns with their personal values. The manager responds that fostering strong relationships and integrating into the local business community is essential, and such practices are often seen as a way to build trust and rapport.  
+**Which theory best exemplifies the manager’s reasoning?**
+
+- Virtue ethics  
+- Communitarianism  
+- Utilitarianism  
+- Deontology  
+
+**Answer:** Communitarianism  
+> Communitarianism looks at how social connections inform ethical judgments.
+
+---
+
+### 5. Nadia is a park ranger who maintains a set number of visitors per hour to a specific attraction. When at capacity, she turns visitors away. Nadia acknowledges her actions disrupt some people but justifies it as for the greater good.  
+**Which theory best exemplifies Nadia’s reasoning?**
+
+- Deontology  
+- Utilitarianism  
+- Virtue ethics  
+- Relativism  
+
+**Answer:** Utilitarianism  
+> Utilitarianism focuses on maximizing positive outcomes for all involved.
+
+---
+
+### 6. Deron breaks his roommate's video game controller in a fit of rage. To avoid making his roommate angry, Deron claims the dog knocked it out of his hands and down some stairs.  
+**What best describes Deron’s actions?**
+
+- ethical/legal  
+- unethical/legal  
+- unethical/illegal  
+- ethical/illegal  
+
+**Answer:** unethical/legal  
+> Deron’s action does not violate a legal standard but is self-serving deception and unethical.
+
 
 <h1>BOOKMARK(pg)[31]</h1>
 
