@@ -1275,6 +1275,119 @@ You can incorporate ethical considerations by:
 - **Virtue**  
   A commendable quality or trait that reflects moral excellence and ethical behavior.  
 
+# Self-Assessment Questions
+
+---
+
+### 1. What is ethics?
+
+**The term** ____ describes the standards or codes of behavior expected of an individual by a group to which the individual belongs.
+
+- morals  
+- **ethics**  
+- virtues  
+- integrity  
+
+**____ is/are one’s personal beliefs about what is right and wrong.**
+
+- Virtues and vices  
+- Ethics  
+- **Morals**  
+- Code of ethics  
+
+**Laws provide a complete guide to ethical behavior. True or False?**
+
+- True  
+- **False**  
+
+---
+
+### 2. What trends have increased the likelihood of unethical behavior?
+
+**The moral corruption of people in power has been given the name:**  
+- Bathsheba syndrome  
+
+**According to the Ethics Resource Center, which of the following is the most commonly observed form of employee misconduct?**
+
+- Lying to employees  
+- Abusive behavior  
+- Inappropriate social networking  
+- **Misuse of company time**  
+
+**Nonmanagers are responsible for what percent of instances of reported misconduct?**
+
+- Roughly 25 percent  
+- **Over 50 percent**  
+- About 40 percent  
+- Less than 33 percent  
+
+---
+
+### 3. What is corporate social responsibility, and why is fostering good business ethics important?
+
+**The goodwill that CSR activities generate can make it easier for corporations to conduct their business but is unlikely to affect the profitability of the firm. True or False?**
+
+- True  
+- **False**  
+
+**If an employee acts in a manner contrary to corporate policy and their employee’s directions, the employer cannot be held responsible for these actions. True or False?**
+
+- True  
+- **False**  
+
+---
+
+### 4. What measures can organizations take to improve their business ethics?
+
+**Approximately how many U.S. workers have reported worker or manager misconduct and then suffered some sort of retribution from their supervisor or negative reactions from their coworkers?**
+
+- Less than 5.5 million  
+- Over 10 million  
+- Some 6.2 million  
+- **About 8.7 million**  
+
+**A statement that highlights an organization’s key ethical issues and identifies the overarching values and principles that are important to the organization and its decision making.**
+
+- Integrity statement  
+- **Code of ethics**  
+- Mission statement  
+- Vision statement  
+
+**Which of the following is NOT a key goal of employee ethics training?**
+
+- Increase the percentage of employees who report incidents of misconduct.  
+- Make employees more aware of the company’s code of ethics and how to apply it.  
+- **Become familiar with various philosophers and how they dealt with ethical issues.**  
+- Reduce the company’s liability in the event of legal action.  
+
+---
+
+### 5. How can you include ethical considerations in your decision making?
+
+**Identifying the stakeholders and their positions on an issue is part of which decision-making step?**
+
+- Define the problem  
+- Review the applicable guidelines, policies, and laws  
+- **Identify and evaluate options**  
+- Choose the best option  
+
+**If you find yourself rationalizing a decision with the statement “Well, our competitors are doing something far worse,” what action should you NOT take?**
+
+- **Drop this option, and implement the same policy as your competitors.**  
+- Reconsider your options.  
+- Realize you are about to make a decision that you will find difficult to justify to others.  
+- Seek input and advice from others.  
+
+---
+
+### 6. What trends have increased the risk that information technology will be used in an unethical manner?
+
+**Important decisions with strong ethical implications are too often left to the technical experts; general business managers must assume greater responsibility for these decisions. True or False?**
+
+- **True**  
+- False  
+
+<h1>BOOKMARK(pg)[31]</h1>
 
 ---
 
