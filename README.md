@@ -2244,6 +2244,73 @@ Yahoo hired **Scott Thompson**, former PayPal executive, as CEO in 2012. He resi
 - UKTV assured rivals that the data was deleted and not used.
 
 
+# Relationships Between IT Workers and IT Users
+
+The term **IT user** refers to a person who uses a hardware or software product. This term distinguishes **end users** from the **IT workers** who develop, install, service, and support the product. IT users rely on these products to:
+
+- Deliver organizational benefits
+- Increase their productivity
+
+---
+
+## Responsibilities of IT Workers
+
+IT workers have several ethical and professional responsibilities toward users:
+
+- **Understand users’ needs and capabilities**
+  - Deliver products and services that best meet those needs
+  - Work within **budget and time constraints**
+  
+- **Establish an ethical environment** that:
+  - Discourages **software piracy**
+  - Minimizes **inappropriate use of corporate computing resources**
+  - Prevents **inappropriate sharing of information**
+
+# Relationships Between IT Workers and Society
+
+Regulatory laws establish safety standards for products and services to protect the public. However, these laws are less than perfect and cannot safeguard against all negative side effects of a product or process.
+
+Often, professionals can see the potential impact of their work and take proactive action to eliminate public risks. Thus, society expects professionals to:
+
+- Provide significant benefits
+- Avoid causing harm through their actions
+
+One way to meet this expectation is to establish and maintain **professional standards** that protect the public.
+
+---
+
+## Societal Impact of IT Workers
+
+The actions of IT workers can have a direct or indirect effect on society. For example:
+
+- A **systems analyst** might design a computer-based control system for a chemical manufacturing process.
+- If this system fails or has errors, it could endanger:
+  - Workers
+  - Local residents
+  - The environment
+
+As a result, IT workers have an **ethical responsibility** to consider how their actions affect the broader society.
+
+Currently, there is no single formal organization responsible for establishing and maintaining industry-wide standards to protect the public from the impact of IT systems. However, various **professional organizations** do offer **codes of ethics** to guide IT workers.
+
+---
+
+## 🧠 Critical Thinking Exercise: Accept the Tickets or Not?
+
+You are leading your organization’s effort to purchase and install new accounting software. The project will cost an estimated **$3 million**. Over the past few months, you have evaluated several potential vendors.
+
+It’s early March, and the NCAA basketball tournament is underway. A sales rep from one of the vendors calls you and offers **two tickets** to a second-round game next weekend.
+
+Consider the following questions:
+
+- Can you accept this offer **without raising concerns**?
+- How can you **politely decline** the offer without offending the sales rep?
+- Would **accepting** the tickets **obligate** you in any way?
+- Would you feel compelled to **share information** about how their firm is ranking in the vendor selection process?
+- Would you be more inclined to **spend extra time** understanding their products?
+
+> ⚠️ Ethical dilemma: Even seemingly small gifts can create a conflict of interest or the appearance of bias. Transparency, fairness, and professional integrity are key in such situations.
+
 
 ---
 
