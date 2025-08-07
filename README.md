@@ -1597,6 +1597,143 @@ You can incorporate ethical considerations by:
     - Why or why not?
 
 
+# What Would You Do?
+
+Use the **five-step decision-making process** to analyze the following situations and recommend a course of action:
+
+---
+
+## 1. Including Character in the Hiring Process
+
+**Scenario:**  
+Employers focus mainly on experience and knowledge. As part of HR, you're considering proposing **character** as a third area of candidate review (honesty, integrity, courage). Should you discuss this with your manager?
+
+**Five-Step Decision-Making Process:**
+
+1. **Define the Problem**  
+   Should character traits be evaluated during recruitment?
+
+2. **Identify Stakeholders**  
+   HR team, hiring managers, job candidates, organization as a whole.
+
+3. **Review Applicable Guidelines, Policies, and Laws**  
+   Company hiring policy, EEOC regulations, HR best practices.
+
+4. **Identify and Evaluate Options**  
+   - Bring up the idea and suggest pilot program.  
+   - Do nothing and stick with current process.  
+   - Informally begin assessing character during interviews.
+
+5. **Choose the Best Option**  
+   Propose the idea to your manager with examples of character-assessment methods (e.g., scenario-based questions, reference checks focused on integrity).
+
+---
+
+## 2. Lowering Salary Increases to Stay Under Budget
+
+**Scenario:**  
+You're up for a promotion. You can grant 3% average salary increases, but you're considering lower increases to demonstrate cost control.
+
+**Five-Step Decision-Making Process:**
+
+1. **Define the Problem**  
+   Balancing fair compensation with budget control and personal promotion.
+
+2. **Identify Stakeholders**  
+   Employees, yourself, upper management, HR.
+
+3. **Review Applicable Guidelines, Policies, and Laws**  
+   Company compensation policy, HR equity standards.
+
+4. **Identify and Evaluate Options**  
+   - Grant full raises fairly.  
+   - Reduce raises across the board.  
+   - Vary increases based on performance, with transparent justification.
+
+5. **Choose the Best Option**  
+   Base increases on performance, ensure transparency, and document the reasoning to align fairness with budget goals.
+
+---
+
+## 3. Mutual Favor in Performance Reviews
+
+**Scenario:**  
+Your friend offers a positive peer review in exchange for one from you. However, their performance is subpar.
+
+**Five-Step Decision-Making Process:**
+
+1. **Define the Problem**  
+   Integrity vs. loyalty to a friend.
+
+2. **Identify Stakeholders**  
+   Yourself, your friend, your manager, your team, the company.
+
+3. **Review Applicable Guidelines, Policies, and Laws**  
+   Company review process, honesty policies.
+
+4. **Identify and Evaluate Options**  
+   - Decline the offer and give honest reviews.  
+   - Go along with the exchange.  
+   - Speak privately with your friend to express concerns.
+
+5. **Choose the Best Option**  
+   Be honest in your evaluation. Offer to help your friend improve but maintain integrity.
+
+---
+
+## 4. Exaggerating Your Résumé
+
+**Scenario:**  
+You're struggling to find a job and consider exaggerating your role on a class project to appear more experienced.
+
+**Five-Step Decision-Making Process:**
+
+1. **Define the Problem**  
+   Truthfulness vs. job opportunity.
+
+2. **Identify Stakeholders**  
+   Employers, yourself, competitors, references.
+
+3. **Review Applicable Guidelines, Policies, and Laws**  
+   Employment laws, academic integrity.
+
+4. **Identify and Evaluate Options**  
+   - Be truthful, but frame your experience positively.  
+   - Exaggerate the project and risk getting caught.  
+   - Gain more real-world experience (volunteering, internships).
+
+5. **Choose the Best Option**  
+   Stay honest, strengthen your résumé through volunteer work or freelance projects.
+
+---
+
+## 5. Padding Your Expense Report
+
+**Scenario:**  
+After a long business trip, you're tempted to add extra expenses as “compensation” for your personal sacrifices.
+
+**Five-Step Decision-Making Process:**
+
+1. **Define the Problem**  
+   Justifying false claims to feel fairly compensated.
+
+2. **Identify Stakeholders**  
+   Yourself, company finance/accounting, shareholders, your family.
+
+3. **Review Applicable Guidelines, Policies, and Laws**  
+   Company travel and reimbursement policy, legal implications.
+
+4. **Identify and Evaluate Options**  
+   - Submit accurate expenses.  
+   - Pad the report to recover extra time and effort.  
+   - Speak to your manager about workload and compensation concerns.
+
+5. **Choose the Best Option**  
+   Submit an honest report and raise the issue of workload separately with HR or management.
+
+
+
+
 ---
 
 # Ethics of Computing and Technology  
