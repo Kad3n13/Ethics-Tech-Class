@@ -1555,6 +1555,47 @@ You can incorporate ethical considerations by:
 | 15 | What trends increase IT misuse? | - Weak oversight<br> - Surveillance tools<br> - AI misuse<br> - Lack of regulation |
 | 16 | Ethical IT decisions must not be left only to technical experts. | - **True**<br> - False |
 
+# Discussion Questions
+
+1. **What does it mean for an organization to act ethically?**  
+   How can one evaluate whether this is the case?
+
+2. **Identify two important life experiences** that helped you define your own set of morals.
+
+3. **Slippery Slope in Ethics**  
+   In ethics, a slippery slope begins when one small unethical action is rationalized as harmless, often leading to bigger misconduct.  
+   *Example:* Bernie Madoff started small, eventually stealing $85 billion.  
+   - Can you provide an example of when you or someone you know was tempted to succumb to the slippery slope?
+
+4. **Hiring Based on Character**  
+   It’s easy to say that an organization should hire, reward, and dismiss based on character as well as skill—but how can this actually be implemented?
+
+5. **Ethics Program Features**  
+   The Ethics Resource Center lists five characteristics of a successful ethics program.  
+   - Suggest a **sixth characteristic**, and defend your choice.  
+   - Which characteristic do you think is **most important** and why?
+
+6. **Stretch Goals & Ethics**  
+   Managers often push “stretch” goals and quotas.  
+   - Can this be done **without encouraging unethical behavior**?  
+   - Defend your position.
+
+7. **Ethical Environments: Nonprofit vs. For-profit**  
+   **Hypothesis:** It is easier to establish an ethical work environment in a nonprofit than a for-profit organization.  
+   - Provide **three points supporting** this hypothesis.  
+   - Provide **three points refuting** it.
+
+8. **Software Piracy in Developing Countries**  
+   - Should software companies **tolerate piracy** in third-world countries to help them advance into the information age?  
+   - Why or why not?
+
+9. **Ethical Work Culture in Your Workplace**  
+   - Comment on the efforts of your employer (or previous employers) to promote an **ethical work environment**.
+
+10. **CSR vs. Criminal Liability**  
+    - Should senior managers **avoid criminal liability** for rogue employee actions if their organization has a strong CSR program (e.g., environmental efforts, philanthropy, fair treatment)?  
+    - Why or why not?
+
 
 ---
 
