@@ -2179,6 +2179,71 @@ IT workers interact with many different hardware, software, and service provider
 | Often made indirectly through a third party                | Made directly from donor to recipient               |
 | Create an obligation for the recipient to favor the donor  | No expectation of future favors for the donor       |
 
+# Relationships Between IT Workers and Other Professionals
+
+Professionals often feel a degree of loyalty to other members of their profession. As a result:
+
+- They are often quick to help each other obtain new positions.
+- They may be slow to criticize each other in public.
+- They care about the reputation of their profession, since public perception affects individual members (e.g., teachers vs. politicians).
+
+Professionals owe each other adherence to the **profession’s code of conduct**. Experienced professionals can also serve as **mentors** and help develop new members of the profession.
+
+---
+
+## Ethical Issues Among IT Professionals
+
+### Résumé Inflation
+
+- **Résumé inflation** is lying or exaggerating on a résumé.
+- Common example: Claiming proficiency in a high-demand IT skill.
+- Short-term benefit, but long-term harm to both individual and profession.
+- Many employers view this as grounds for immediate dismissal.
+
+#### Example:
+Yahoo hired **Scott Thompson**, former PayPal executive, as CEO in 2012. He resigned within a year due to discrepancies in his academic qualifications.
+
+---
+
+### Résumé Falsehood Statistics
+
+| Area of Exaggeration         | Frequency (%) | How to Uncover the Truth                                       |
+|-----------------------------|----------------|----------------------------------------------------------------|
+| Embellished skill set       | 57%            | Verify licenses/certifications with accrediting agency         |
+| Embellished responsibilities| 55%            | Conduct thorough background and reference checks               |
+| Dates of employment         | 42%            | Conduct thorough background and reference checks               |
+| Job title                   | 34%            | Conduct thorough background and reference checks               |
+| Academic degrees earned     | 33%            | Verify with educational institutions                           |
+| Companies worked for        | 26%            | Conduct thorough background and reference checks               |
+| Accolades/Awards            | 18%            | Conduct thorough background checks                             |
+
+> **Source:** “Infographic: The Lies We Tell on Resumes,” [BackgroundChecks.org](http://backgroundchecks.org/infographic-the-lies-we-tell-on-resumes.html)
+
+---
+
+### Inappropriate Sharing of Corporate Information
+
+- IT workers may access private data on:
+  - Employees
+  - Customers
+  - Suppliers
+  - Budgets
+  - New product plans
+  - Promotions
+- Sharing this data (whether sold or discussed casually) is unethical and often illegal.
+- Could result in:
+  - Termination
+  - Criminal charges
+
+#### Case Example: Ofcom Data Leak
+
+- **Ofcom** (UK's telecom regulator) employed a short-term contractor.
+- He offered his new employer (UKTV) **six years of confidential data** from competitors.
+- Data included income and spending data from Ofcom’s market intelligence database.
+- UKTV fired the employee and reported the incident.
+- UKTV assured rivals that the data was deleted and not used.
+
+
 
 ---
 
