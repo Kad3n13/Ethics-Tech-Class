@@ -1732,6 +1732,72 @@ After a long business trip, you're tempted to add extra expenses as “compensat
    Submit an honest report and raise the issue of workload separately with HR or management.
 
 
+# Case Study: VW Cheats on Emissions Testing
+
+Up until late 2015, Volkswagen AG (VW) was the second-largest carmaker in the world, with its 590,000 employees producing nearly 41,000 vehicles per day. At that time, the company’s prospects seemed bright, with many of its 12 subsidiaries (Audi, Bentley, Bugatti, Ducati, Lamborghini, etc.) performing well.
+
+However, the company’s fortune changed drastically after it admitted in **September 2015** to installing software designed to **deceive emissions-testing procedures** in more than 11 million cars going back as far as 2005.
+
+## Key Points:
+
+- The **software** sensed when emissions tests were being conducted and **activated emission controls** to pass the tests. These controls were **deactivated during regular driving**, resulting in emissions that **exceeded legal limits**.
+- The motive: better **torque, fuel efficiency**, and **performance**.
+- VW's deception spanned **multiple diesel models** across VW, Audi, and Porsche.
+- The **U.S. Department of Justice** sued VW in 2016; VW agreed to a **$14.7 billion settlement**—the largest in Clean Air Act history.
+- Additional lawsuits and penalties followed, leading to:
+  - A **24% drop in stock price**
+  - VW **relinquishing its goal** of becoming the world’s top automaker by 2018
+
+## Background and Corporate Culture:
+
+- VW was founded in 1937 by the Nazi-controlled German Labour Front to build the “people’s car” (eventually the Beetle).
+- Post-WWII, the British revived the company, which later became a symbol of West Germany’s economic recovery.
+
+### Leadership Influence:
+
+- **Ferdinand Piëch** (CEO 1993–2002): Aggressive, autocratic leader who demanded results at any cost.
+- **Martin Winterkorn** (CEO 2007–2015): Shared a similar management style—berated employees, demanded impossible targets, and resisted environmental regulation.
+- Both cultivated a **toxic culture of fear**, where employees were **afraid to speak up** or admit failure.
+
+## Cultural Consequences:
+
+- Critics claim the scandal was made possible by:
+  - A **cutthroat culture**
+  - Promotion-obsessed workaholics unwilling to challenge authority
+  - **Normalization of deviance**—bad behavior becomes tolerated and normalized if it produces results
+
+---
+
+## 🚨 Critical Thinking Questions
+
+### 1. Do you accept the explanation that “normalization of deviance” and a toxic culture explain the VW emissions scandal? Why or why not?
+
+Consider:
+- Leadership style
+- Hiring practices
+- Internal pressure to deliver impossible results
+- Ethical expectations
+
+---
+
+### 2. VW must appoint a new CEO and key board member. Identify **three specific actions** their replacements must take to **change VW’s corporate culture**.
+
+Consider:
+- Internal reporting systems
+- Whistleblower protection
+- Transparency and ethical leadership training
+
+---
+
+### 3. Allegations suggest that **Robert Bosch GmbH** (supplier of VW’s engine control unit) may have aided in the emissions deception. Bosch claims they are not responsible for how VW integrated their components.
+
+**Research Prompt:**  
+What role did Bosch play in the scandal? Should Bosch be **sanctioned or fined**? Why or why not?
+
+Consider:
+- Supplier accountability
+- Knowledge of misuse
+- Legal and ethical implications
 
 
 ---
