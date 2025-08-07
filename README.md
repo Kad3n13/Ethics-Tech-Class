@@ -1534,6 +1534,28 @@ You can incorporate ethical considerations by:
 
 <h1>BOOKMARK(pg)[31]</h1>
 
+# Self-Assessment Questions – Ethics and CSR
+
+| # | Question | Options |
+|---|----------|---------|
+| 1 | The term **blank 1** describes the standards or codes of behavior expected of an individual by a group to which the individual belongs. | - Morals<br> - **Ethics**<br> - Virtues<br> - Integrity |
+| 2 | **Blank 1** is/are one’s personal beliefs about what is right and wrong. | - Virtues and vices<br> - Ethics<br> - **Morals**<br> - Code of ethics |
+| 3 | Laws provide a complete guide to ethical behavior. | - True<br> - **False** |
+| 4 | The moral corruption of people in power has been given the name: | - **Bathsheba syndrome** |
+| 5 | Most commonly observed form of employee misconduct (Ethics Resource Center)? | - Lying to employees<br> - Abusive behavior<br> - Inappropriate social networking<br> - **Misuse of company time** |
+| 6 | Nonmanagers are responsible for what percent of reported misconduct? | - Roughly 25%<br> - **Over 50%**<br> - About 40%<br> - Less than 33% |
+| 7 | The goodwill that CSR activities generate can make it easier to conduct business but is unlikely to affect profitability. | - True<br> - **False** |
+| 8 | If an employee acts against policy and instructions, the employer is not responsible. | - True<br> - **False** |
+| 9 | How many U.S. workers have reported misconduct and then suffered retribution? | - Less than 5.5 million<br> - Over 10 million<br> - Some 6.2 million<br> - **About 8.7 million** |
+| 10 | A statement that outlines an organization's key ethics and principles is called a: | - Integrity statement<br> - **Code of ethics**<br> - Mission statement<br> - Vision statement |
+| 11 | Which is *not* a goal of employee ethics training? | - Increase reports of misconduct<br> - Awareness of company ethics<br> - **Study philosophers' ethics**<br> - Reduce legal liability |
+| 12 | Including ethics in decision-making: What helps? | - Identify stakeholders<br> - Review policies<br> - Evaluate options<br> - Choose best option |
+| 13 | Identifying stakeholder positions is part of which step? | - **Define the problem**<br> - Review guidelines<br> - Evaluate options<br> - Choose best option |
+| 14 | If you rationalize with “Our competitors do worse,” what should you NOT do? | - **Copy competitors' policy**<br> - Reconsider options<br> - Realize justification issues<br> - Seek advice |
+| 15 | What trends increase IT misuse? | - Weak oversight<br> - Surveillance tools<br> - AI misuse<br> - Lack of regulation |
+| 16 | Ethical IT decisions must not be left only to technical experts. | - **True**<br> - False |
+
+
 ---
 
 # Ethics of Computing and Technology  
