@@ -2066,6 +2066,119 @@ Fraud is the crime of obtaining goods, services, or property through deception o
 - **Obsolete solutions**: Delivering systems that meet requirements but are outpaced by competitor offerings.
 - **Legacy systems**: Hidden or undisclosed dependencies on old systems complicating integration and implementation.
 
+# Relationships Between IT Workers and Suppliers
+
+IT workers interact with many different hardware, software, and service providers. Building good relationships with suppliers encourages:
+
+- Useful communication flow
+- Sharing of innovative ideas
+- Cost-effective use of products and services
+
+## How IT Workers Can Build Good Supplier Relationships
+
+- Deal fairly with suppliers.
+- Avoid making unreasonable demands.  
+  *Example:* Threatening to replace a supplier who cannot deliver equipment tomorrow when the normal lead time is one week is counterproductive.
+
+## Ethical Concerns: Bribery
+
+- Suppliers may attempt unethical actions, such as offering gifts intended as bribes.
+- IT workers should **not** accept bribes.
+- Examples of questionable gifts include expensive dinners or paid golf tournament fees, which may appear innocent but can be perceived as bribery by auditors.
+
+---
+
+## What is Bribery?
+
+**Bribery** is providing money, property, or favors to someone in business or government to gain an unfair business advantage.
+
+- A software sales rep offering money to a company employee to secure business is a classic example (kickback or payoff).
+- Offering or accepting a bribe is a crime.
+- Many states have bribery laws that can invalidate contracts involving bribes, though criminal convictions are rare.
+
+---
+
+## Case Example: Foxconn Technology
+
+- Foxconn, the world’s largest electronics contract manufacturer, assembles products for companies like Apple, Nokia, and Sony.
+- In 2014, five former employees (including two senior managers) were charged with bribery.
+- The charges involved accepting kickbacks from 10 suppliers in exchange for purchasing contracts and clearing quality checks.
+- Foxconn detected the issue via internal audit and alerted authorities in Taiwan and China.
+
+---
+
+## Internal Control
+
+**Internal control** is a process set by an organization’s board, managers, and IT personnel to assure:
+
+- Effectiveness and efficiency of operations
+- Reliability of financial reporting
+- Compliance with laws and regulations
+
+### Components of Internal Control
+
+- **People:** Employees responsible for following procedures and reporting issues.
+- **Policies:** Guidelines and standards aligned with laws.
+- **Processes:** Collections of tasks to achieve objectives.
+- **Procedures:** Specific instructions for completing tasks.
+- **Systems:** IT and operational systems enabling control.
+
+### Roles in Internal Control
+
+- **Management:** Ensures control systems are implemented and balanced against cost-benefit.
+- **Employees:** Follow procedures and report inefficiencies.
+- **Internal Audit:** Assesses implementation and effectiveness of controls, reports findings.
+
+---
+
+## Separation of Duties
+
+- Critical concept in preventing fraud.
+- Different individuals handle different parts of a financial process to prevent collusion.
+- Example in accounts receivable:
+  - Separate duties for receipt of payments, approving write-offs, depositing cash, and bank reconciliation.
+- Lack of separation, common in small organizations, increases fraud risk.
+- Monitoring by supervisors is a way to strengthen controls in small firms.
+
+---
+
+## Foreign Corrupt Practices Act (FCPA)
+
+- U.S. law making it illegal to bribe foreign officials.
+- Applies to U.S. citizens, companies, and companies listed on U.S. stock exchanges.
+- Payments lawful under local laws are exempt.
+- Penalties:
+  - Corporations: up to $2 million per violation.
+  - Individuals: up to $100,000 fine and 5 years imprisonment.
+- Requires companies to have adequate internal control systems and accurate books to prevent disguised bribes.
+- Enforcement includes audits by internal and external auditors.
+
+---
+
+## Case Example: Hewlett-Packard (HP) FCPA Settlement
+
+- HP paid $108 million to settle investigations by U.S. DOJ and SEC.
+- Allegations involved subsidiaries bribing government officials in Mexico, Poland, and Russia.
+- Misconduct included slush funds, two sets of books, anonymous emails, prepaid phones, and covert cash handovers.
+- HP cooperated with the investigation; involved employees no longer employed.
+
+---
+
+## Gifts vs. Bribes
+
+- In some countries, gift-giving is an essential business practice.
+- In the U.S., gifts might be free tickets or promotional items from suppliers.
+- **Key distinction:** Gifts must be declared and not hidden.
+- Many companies require all gifts to be declared; token gifts may be accepted, but others often declined or pooled for charity.
+
+### Table: Distinguishing Between Bribes and Gifts
+
+| Bribes                                                    | Gifts                                              |
+|-----------------------------------------------------------|---------------------------------------------------|
+| Made in secret; neither legally nor morally acceptable     | Made openly as a gesture of goodwill               |
+| Often made indirectly through a third party                | Made directly from donor to recipient               |
+| Create an obligation for the recipient to favor the donor  | No expectation of future favors for the donor       |
+
 
 ---
 
