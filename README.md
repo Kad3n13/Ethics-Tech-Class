@@ -1799,6 +1799,63 @@ Consider:
 - Knowledge of misuse
 - Legal and ethical implications
 
+# Case Study: Toshiba Accounting Scandal
+
+**Toshiba Corporation**, a Japanese electronics and engineering conglomerate headquartered in Tokyo, produces a wide range of products such as personal computers, semiconductors, consumer electronics, and nuclear power systems. It also provides services in information technology, communications, and nuclear reactor operations.
+
+## Scandal Overview:
+
+In **May 2015**, Toshiba formed an **outside panel** to investigate potential accounting irregularities—common in Japan due to the lack of independent directors on corporate boards. 
+
+### Key Findings:
+
+- CEO **Hisao Tanaka** resigned in **July 2015** when the panel discovered that Toshiba had **overstated profits by $1.2 billion** over 7 years (later revised to **$1.9 billion**).
+- **Two former CEOs** and **six board members** also stepped down.
+- A **culture of fear and obedience** pressured employees into improper accounting—postponing losses and moving costs into future years.
+- The company set **unrealistic profit targets**, forcing units to exaggerate earnings.
+- Toshiba **limited** the scope of the investigation, excluding key areas such as its U.S. nuclear business (**Westinghouse Electric Co.**), which later took a **$2.5 billion write-down**.
+
+### Financial Fallout:
+
+- Toshiba was **removed from the JPX Nikkei Index 400**, which tracks top-performing Japanese companies.
+- First quarter losses post-scandal reached **$102 million**; stock hit a **36-year low** in early 2016.
+- The company returned to profitability in Q2 2016, aided by **cost-cutting and layoffs**.
+
+## Broader Context:
+
+Japan has seen multiple corporate scandals—Livedoor, Olympus, Mitsubishi, and others. In response, under **Prime Minister Shinzo Abe**, efforts have been made to improve **corporate transparency** and attract **foreign investors**.
+
+### Issues with Third-Party Panels:
+
+- **Panels accept investigation scope set by the company**, limiting independence.
+- **Panel members are not company directors**, and thus have **no fiduciary duty** to shareholders.
+- Panels have **no legal power** to compel document production or testimony.
+
+The Toshiba scandal was a blow to Japan's efforts to rebuild investor trust. Finance Minister **Taro Aso** called the scandal “woefully regrettable.”
+
+---
+
+## 🔍 Critical Thinking Questions
+
+### 1. Should investigations continue until all parties involved in the Toshiba scandal are identified and punished?
+
+- What are the **pros** (e.g., justice, deterrence)?
+- What are the **cons** (e.g., costs, reputation damage, executive flight)?
+
+---
+
+### 2. Should Japan continue using outside panels for investigations?
+
+- Do you see value in these **third-party reviews**, or can you propose a **better mechanism** to enforce transparency and compliance with laws and accounting standards?
+
+---
+
+### 3. Japan struggles with board independence and transparency compared to global standards.
+
+- What **national-level reforms** or **corporate governance practices** would you suggest to improve **foreign investor confidence** and accountability?
+
+
+
 
 ---
 
