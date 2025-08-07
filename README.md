@@ -1855,8 +1855,17 @@ The Toshiba scandal was a blow to Japan's efforts to rebuild investor trust. Fin
 - What **national-level reforms** or **corporate governance practices** would you suggest to improve **foreign investor confidence** and accountability?
 
 
+<h1>Organizations Behaving Badly></h1>
 
+<p>Queensland, the second largest state in Australia, awarded an outsourcing contract to IBM to build a new payroll application for its Department of Health at an initial cost estimate of $5 million. The project, however, went horribly wrong. Among other issues, the resulting system, delivered many months late, generated incorrect checks for some staff and no checks at all for others. As efforts mounted to fix the problems, the project cost ballooned out of control, eventually reaching more than $1 billion. Subsequent investigation by the state led to the allegations that IBM employees had acted unethically during the bidding process. In a report issued after the investigation, the Queensland government asserted that it would not have contracted with IBM were it not for misrepresentations made by IBM regarding its expertise as well as the true project costs. For its part, IBM claimed that Queensland employees did a terrible job in managing the project—a claim supported by the state’s own investigation.</p>
 
+<p>Queensland, the second largest state in Australia, awarded an outsourcing contract to IBM to build a new payroll application for its Department of Health at an initial cost estimate of $5 million. The project, however, went horribly wrong. Among other issues, the resulting system, delivered many months late, generated incorrect checks for some staff and no checks at all for others. As efforts mounted to fix the problems, the project cost ballooned out of control, eventually reaching more than $1 billion. Subsequent investigation by the state led to the allegations that IBM employees had acted unethically during the bidding process. In a report issued after the investigation, the Queensland government asserted that it would not have contracted with IBM were it not for misrepresentations made by IBM regarding its expertise as well as the true project costs. For its part, IBM claimed that Queensland employees did a terrible job in managing the project—a claim supported by the state’s own investigation.</p>
+
+> As you read this chapter, consider the following questions:
+
+> <p>1 What relationships must an IT worker manage, and what key ethical issues can arise in each?</p>
+> <p>2 What can be done to encourage the professionalism of IT workers?</p>
+> <p>3 What ethical issues do IT users face, and what can be done to encourage their ethical behavior?</p>
 ---
 
 # Ethics of Computing and Technology  
