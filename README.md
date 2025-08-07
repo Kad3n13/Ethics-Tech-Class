@@ -1951,6 +1951,122 @@ The Toshiba scandal was a blow to Japan's efforts to rebuild investor trust. Fin
 *Note: This summary highlights ethical and legal challenges IT workers and companies face regarding software use, confidentiality, and corporate accountability.*
 
 
+# Relationships Between IT Workers and Clients
+
+IT workers provide services to clients; sometimes those “clients” are coworkers within the same company, other times they are from different companies. In these relationships:
+
+- Each party agrees to provide something of value to the other.
+- IT workers typically provide hardware, software, or services at a defined cost and timeline.
+- Clients provide compensation, access to contacts, workspace, etc.
+- These arrangements are usually formalized in contracts specifying:
+  - Roles and responsibilities
+  - Project start dates
+  - Duration and cost
+
+Despite differences in technical expertise, cooperation is essential for success.
+
+---
+
+## Decision Making and Trust
+
+- Clients make project decisions based on information, alternatives, and recommendations from IT workers.
+- Clients trust IT workers to act in their best interests.
+- IT workers trust clients to provide:
+  - Relevant information
+  - Active listening
+  - Understanding of the project impact
+- Decision-making responsibility is shared between clients and IT workers.
+
+---
+
+## Potential Ethical Issues
+
+### Conflict of Interest
+
+- Occurs when IT consultants or auditors recommend their own or affiliated products/services to solve problems.
+- Such behavior can undermine objectivity and trust.
+- Example: A consulting firm rates an existing IT strategy poorly and insists on using its proprietary products.
+
+### Incomplete or Misleading Reporting
+
+- Project managers may lack information, tools, or experience for accurate project assessments.
+- Pressure to keep resources flowing can lead to hiding problems.
+- Contractual penalties may discourage honest status updates.
+- This can result in clients being unaware of issues until crises emerge, leading to blame and legal disputes.
+
+---
+
+## Legal Concepts
+
+### Fraud
+
+Fraud is the crime of obtaining goods, services, or property through deception or trickery. To prove fraud in court, these elements must be shown:
+
+1. False representation of a material fact by the wrongdoer.
+2. Intent to deceive the innocent party.
+3. Justifiable reliance by the innocent party on the misrepresentation.
+4. Injury to the innocent party.
+
+### Misrepresentation
+
+- A misstatement or incomplete statement of a material fact.
+- Can lead to contract cancellation or reimbursement if it induces a party to enter into a contract.
+
+---
+
+## Case Example: Affinity Gaming Data Breach
+
+- Affinity Gaming, a Las Vegas casino company, suffered a 2013 data breach exposing customer credit card data.
+- Hired **Trustwave** for investigation and containment.
+- Trustwave claimed the breach was contained.
+- A second breach occurred a year later.
+- Affinity hired **Mandiant**, a competitor, who found Trustwave's investigation incomplete.
+- Affinity sued Trustwave for misrepresentation regarding breach containment and remediation recommendations.
+
+---
+
+## Breach of Contract
+
+- Occurs when one party fails to meet contractual terms.
+- **Material breach**: Failure to perform obligations that impair or destroy the contract's essence.
+- Remedies for non-breaching party:
+  1. Rescind contract, seek restitution, and be discharged from further performance.
+  2. Continue contract and sue for damages.
+
+### Case Example: Hewlett-Packard Enterprise (HPE) vs. Oracle
+
+- Oracle stopped supporting Oracle database software on HPE’s Itanium-based systems.
+- HPE argued this harmed sales of its products and benefitted Oracle’s own hardware.
+- Court awarded HPE $3 billion for lost sales and damages.
+- Oracle was required to continue supporting Itanium systems.
+
+---
+
+## IT Project Failures and Disputes
+
+- Common issues leading to disputes:
+  - Cost overruns
+  - Schedule delays
+  - Lack of required system functionality
+
+- Disputes can involve claims of:
+  - Fraud
+  - Fraudulent misrepresentation
+  - Breach of contract
+
+- Most disputes settle out of court to avoid lengthy trials and bad publicity.
+- IT vendors limit their legal exposure via contractual damage caps.
+
+---
+
+## Common Causes of IT Project Problems
+
+- **Scope creep**: Changes in project scope or requirements causing overruns and missed deadlines.
+- **Poor communication**: Misunderstandings between clients and vendors leading to unmet expectations.
+- **Obsolete solutions**: Delivering systems that meet requirements but are outpaced by competitor offerings.
+- **Legacy systems**: Hidden or undisclosed dependencies on old systems complicating integration and implementation.
+
+
 ---
 
 # Ethics of Computing and Technology  
