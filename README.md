@@ -1866,6 +1866,91 @@ The Toshiba scandal was a blow to Japan's efforts to rebuild investor trust. Fin
 > <p>1 What relationships must an IT worker manage, and what key ethical issues can arise in each?</p>
 > <p>2 What can be done to encourage the professionalism of IT workers?</p>
 > <p>3 What ethical issues do IT users face, and what can be done to encourage their ethical behavior?</p>
+
+<h1>IT Worker Relationships That Must Be Managed</h1>
+
+<p>IT workers typically become involved in many different work relationships, including those with employers, clients, suppliers, other professionals, IT users, and society at large. In each relationship, an ethical IT worker acts honestly and appropriately. These various relationships are discussed in the following sections. </p>
+
+# IT Worker Ethics and Corporate Responsibility
+
+## Employer-Employee Relationship in IT
+
+- Some aspects of the relationship depend on circumstances (e.g., leaving early if time is made up later).
+- Legal limits apply: employees cannot be forced to do illegal acts such as falsifying quality assurance results.
+- Role-specific issues include:
+  - Programming languages to be used
+  - Documentation requirements
+  - Testing extent
+
+## Ethical Responsibilities of IT Workers
+
+- IT workers are stewards of organizational IT resources.
+- They must enforce ethical policies regarding IT use.
+- IT professionals have skills that could enable system abuse.
+- Software piracy is a significant temptation and legal issue:
+  - Often blamed on end users but sometimes traced to IT staff allowing or engaging in piracy to reduce costs.
+
+## Software Piracy and Industry Groups
+
+- **Software & Information Industry Association (SIIA)** and **BSA | The Software Alliance** are major trade groups.
+- SIIA:
+  - Represents over 200 organizations (e.g., Google, Adobe, Bank of America).
+  - Advocates legal environments protecting intellectual property.
+- BSA:
+  - Funded by member dues and settlements.
+  - Includes Adobe, Apple, Microsoft, Oracle, IBM, and others.
+  - Investigates piracy via hotlines, website tips, and referrals.
+  - Reports often come from disgruntled or former employees, who may get monetary rewards.
+  - In 2012, BSA investigated over 15,000 reports worldwide.
+
+## BSA Enforcement Process
+
+- Upon credible tip, BSA contacts the company for software inventories and license proof.
+- If insufficient licenses:
+  - Company must buy licenses and pay fines, or
+  - Risk legal action, including search warrants with U.S. Marshall's office.
+- Example: A Texas auto repair company faced multimillion-dollar fines, settled after legal counsel intervention.
+
+## Trade Secrets and Confidentiality
+
+- Trade secrets: valuable, confidential company information (e.g., software code, hardware design, business plans).
+- Companies require employees to sign confidentiality agreements.
+- Examples of famous trade secrets:
+  - KFC’s 11 herbs and spices recipe
+  - Coca-Cola formula
+  - Intel’s manufacturing process
+
+## Case Example: Zillow vs. Move
+
+- Zillow provides online real estate data and valuation services.
+- Move, a rival company, sued Zillow in 2014 alleging:
+  - Theft of trade secrets by Zillow’s new executive (a former Move officer).
+  - Copying thousands of documents and deleting texts/emails before resigning.
+  - Attempted cover-up by Zillow.
+- Settlement: Zillow paid $130 million without admitting liability.
+
+## Whistle-Blowing in IT
+
+- Whistle-blowing: reporting company misconduct threatening the public interest.
+- IT workers may have special insight into dangerous or illegal practices.
+- Internal reporting may be blocked or ignored.
+- External reporting risks retaliation or firing.
+
+## Case Example: Oracle Whistle-Blower Lawsuit
+
+- Oracle competes in cloud services with Amazon, IBM, Microsoft, and SAP.
+- Lawsuit by former employee alleges:
+  - Management pressured her to inflate expected cloud revenues.
+  - Oracle shares dropped 4% after the suit announcement.
+- Oracle’s position:
+  - Claims firing was due to poor performance.
+  - Denies wrongdoing and plans countersuit.
+
+---
+
+*Note: This summary highlights ethical and legal challenges IT workers and companies face regarding software use, confidentiality, and corporate accountability.*
+
+
 ---
 
 # Ethics of Computing and Technology  
