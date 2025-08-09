@@ -126,9 +126,9 @@ Consider examples for each quadrant (see table above) and reflect on situations 
 | Action                                        | Classification         | Notes                                                     |
 |-----------------------------------------------|------------------------|----------------------------------------------------------|
 | Google dorking for real estate or research    | Ethical and Legal      | Considered ethical OSINT use                             |
-| Google dorking to gather info to potentially harass | Ethical and Illegal     | Ethical if limited to OSINT; harassment itself is illegal|
+| Google dorking to gather info to potentially harass | Unethical and legal     | Ethical if limited to OSINT; harassment itself is illegal|
 | Using illegal tools to harm or break the law  | Unethical and Illegal  | Criminal behavior and unethical                          |
-| Using nmap on unauthorized systems            | Unethical and Illegal  | Unauthorized scanning is generally illegal and unethical |
+| Conducting a proper Pen-Test but Breaking the law | Ethical and Illegal  | Unauthorized scanning is generally illegal and unethical |
 
 
 # Ethics in Business World
