@@ -2727,6 +2727,28 @@ Analyze sci-fi scenarios to anticipate real-world ethical challenges.
 
 # Bookmark
 (pg) [56]
+
+<p>in holy books or sacred writings. In other cases divine law is considered to be recieved through phropechy or through authoriatative leaders. The ethical weight of an actiong might also be interpreted as gaining its authority from a God or gods without neccessarily using the langauge of law.</p>
+
+<p>Divine command theory is one form of deontology that derives its authority from God. Broadly speaking, divine command theory holds that moral obligations consist of obedience to God. Under divine command theory, an action is obligatory because God or the gods command it, and it is impermissible if God or the gods forbid it. If an action is neither obligatory nor forbidden, it is considered to be a permissible action (Quinn, 2006). Although the notion of God-given laws is conceptually straightforward, there is an interesting philosophical problem at their core: Did God (or the gods) give this law because it is right, or is the law right because it comes from God (or the gods)? This is sometimes referred to as the Euthyphro problem, referring to a dialogue written by Plato in which Socrates asks, "Is the pious loved by the gods because it is pious, or is it pious because it is loved by the gods?" (Plato, *Euthyphro* 10a1–3). Most divine command traditions do not have a settled answer to this question, and it is a topic of ongoing philosophical and religious debate.</p>
+
+### Sidebar: Obligations and Prohibitions
+
+Deontology includes both obligations and prohibitions. Obligations (sometimes called "positive laws") are things that you should do and that require active effort on the part of the agent. By contrast, prohibitions (sometimes called "negative laws") forbid certain kinds of actions: they are obeyed not by undertaking a specific action, but by refraining from acting in a way that has been described as wrong.
+
+Both obligations and prohibitions can be found in the Ten Commandments, which is one of the most well-known sets of laws based on divine authority. In the story recounted in the Five Books of Moses, which are sacred texts for Judaism, Christianity, and Islam, the Ten Commandments are given by God to Moses. There are versions in *Exodus* and *Deuteronomy* that are similar but not identical, and some of the same laws are also repeated in *Leviticus*. In fact, the "canonical" sets differ somewhat among the three religions and among the different translations.
+
+Obligations and prohibitions might seem like opposites in the abstract, but in practice there is a great deal of overlap. Consider these two laws, both of which appear in both versions of the Ten Commandments:
+
+> 4) Remember the Sabbath day to keep it holy.  
+> 6) Thou shalt not murder. (Exodus 20:3–4 KJV)
+
+The first of these laws is clearly an obligation, and the second one is clearly a prohibition. But on closer inspection, the obligations can be seen to have some prohibitions built in, and the prohibitions might well require some specific positive actions.
+
+Honoring the Sabbath is an obligation. Fulfilling this obligation is not something that just happens on its own; a Jew, Christian, or Muslim who is following this law has to do specific things in order to make it happen. But those specific things include actively avoiding some activities that one does on ordinary days, as part of the larger obligation to become more aware of the sacredness of life.
+
+The second law, forbidding murder, is a prohibition. Much of the time, it can be followed simply by avoiding the forbidden action. But for someone who finds themselves in a position to kill another person, it might require active effort to refrain—especially if they are very angry or otherwise motivated to kill that person. In a situation like that—when, arguably, the prohibition against killing matters the most—abiding by the prohibition is likely to require some active, positive effort and not just pa
+
 ---
 
 **Reference:**  
@@ -2738,4 +2760,5 @@ by Emmanuelle Burton, Judy Goldsmith, Nicholas Mattei, Cory Siler, and Sara-Jo S
 </p>
 
 ---
+
 
