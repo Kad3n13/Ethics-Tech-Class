@@ -2757,6 +2757,9 @@ The second law, forbidding murder, is a prohibition. Much of the time, it can be
 
 > Natural law theory accepts that law can be considered and spoken of as a sheer social fact of power and practice, and as a set of reasons for action that can be—and often are—sound as reasons and therefore normative for reasonable people addressed by them. This dual character of positive law is presupposed by the well-known slogan "Unjust laws are not laws." (Finnis 2020)
 
+> Natural law theorists do not hold that ethics is simply a matter of sensing the difference between right and wrong, nor do they claim that deciding what to do is easy. They point out that acting morally is very difficult and that it requires a certain amount of sacrifice. Even more, they tend to emphasize that even in those cases in which we know what the right choice is, we often fail to act in ways that are right and just. For someone with the outlook of Aquinas, this shows that natural reason needs to be supplemented and guided by religious texts and teaching. For secular theorists, this means that discerning what is right and wrong is never a private enterprise, but must be worked out in a social context in which people deliberate about the ends that are worth pursuing.
+
+
 
 **Reference:**  
 Computing and Technology Ethics
