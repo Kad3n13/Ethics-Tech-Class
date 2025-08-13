@@ -2749,7 +2749,14 @@ Honoring the Sabbath is an obligation. Fulfilling this obligation is not somethi
 
 The second law, forbidding murder, is a prohibition. Much of the time, it can be followed simply by avoiding the forbidden action. But for someone who finds themselves in a position to kill another person, it might require active effort to refrain—especially if they are very angry or otherwise motivated to kill that person. In a situation like that—when, arguably, the prohibition against killing matters the most—abiding by the prohibition is likely to require some active, positive effort and not just pa
 
----
+### The Authority of Human Reason
+
+<p>The notion that human beings have an inherent moral compass that allows them to discern the difference between right and wrong is an ancient idea that became especially popular during the European intellectual movement known as the Enlightenment. Over the centuries, theologians and philosophers have linked this belief in the human's inherent capacity to judge between right and wrong to religious disposition and creation stories. In the book of Genesis, for example, the first humans are said to know the difference between right and wrong. Thomas Aquinas, a Christian philosopher and theologian, argues that the very first principle of practical reasoning (i.e., ethical reflection on human action) is quite simple: avoid evil and do the good (Aquinas, Summa Theologica I–II, 94, 2; see Aquinas 1948). Aquinas insisted that all human beings know this basic principle and therefore can discern the difference between right and wrong. While Aquinas appealed to divine authority to support this claim, he also linked this capacity to the human's ability to grasp the laws that govern and order the universe (i.e., natural laws).</p>
+
+<p>Natural law theory as a tradition has also been articulated in less religious and metaphysical terms. As one theorist explains:</p>
+
+> Natural law theory accepts that law can be considered and spoken of as a sheer social fact of power and practice, and as a set of reasons for action that can be—and often are—sound as reasons and therefore normative for reasonable people addressed by them. This dual character of positive law is presupposed by the well-known slogan "Unjust laws are not laws." (Finnis 2020)
+
 
 **Reference:**  
 Computing and Technology Ethics
