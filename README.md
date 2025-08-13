@@ -2770,7 +2770,8 @@ The second law, forbidding murder, is a prohibition. Much of the time, it can be
 
 <p>For Kant, an action performed in accordance with a law or set of laws does not necessarily mean that the action has moral worth. Kant strongly believed that people should learn to think for themselves and never blindly follow any one law or set of laws. And even when following an external law is in order, that does not necessarily endow it with moral worth. In order for an action to have moral worth, it must be an action that you, the agent, recognize as right. But just as importantly, it must be binding for all rational agents. Otherwise, it would be, again, conditional. Only actions that meet both of these criteria have moral worth, according to Kant. Our capacity to act on such a law is the only indication that we are truly free agents.</p>
 
-<p>Contrary to popular opinion, freedom is not about acting on w
+<p>Contrary to popular opinion, freedom is not about acting on whatever desires and impulses one might have in a particular moment, nor is it about following a rule to avoid punishment or condemnation. True freedom, Kant maintained, is the freedom to act according to a law that you can both apply to yourself and universally legislate for all. A law such as this is what Kant calls a categorical imperative, by which he means a law that is unconditionally and universally valid. His first formulation of this law is as follows:</p>
+
 
 
 
