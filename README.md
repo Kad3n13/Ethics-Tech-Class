@@ -2784,6 +2784,407 @@ This introduces a difficult question: what is the right way to resolve an issue 
 > <h1>2.2.5 MODALITIES FOR JUDGMENT</h1>
 <h1>BOOKMARK(pg)[60]</h1>
 
+It is rarely possible to satisfy every single duty, or to satisfy them equally well, because circumstances often create tensions between our various duties. This is largely because regardless of their authority, deontology grounds its rules and laws in relationships. When our duties to different people pull us in different directions, or when a given duty relationship is multidimensional (such as a parent’s relationship to their child or a person’s relationship to their spouse), it is sometimes impossible to honor every duty, or every dimension of one’s duty. When these conflicts of duty arise—as they inevitably do—a moral agent is forced to make judgments about which duties should be prioritized over the others. For deontologists, these priority judgments cannot simply be a matter of personal preference—after all, the whole point of a duty is that it’s binding, even when it’s inconvenient or unpleasant. 
+ 
+
+When balancing competing duties, a deontologist must consider the following two concerns. 
+ 
+ 
+How Fundamental Is It? 
+ 
+
+Which duty is most fundamental? Of the many duties competing for your attention and action, which ones are the most important to who you are and your role in the world? In a situation that compels a person to choose between protecting a stranger and protecting their child, nearly every deontologist would argue that it’s right and appropriate to protect the child, not because the agent has no duties at all to the stranger but because parents have particular duties toward their children. 
+ 
+
+But this determination might be more complicated if the agent is an expert or professional (such as a doctor or a firefighter) who is trained to respond to the crisis at hand, because many such experts and professionals believe that their expertise imposes a specific obligation to use their skills and training to help others when possible, or have even signed onto a professional code that requires them to do so. Even if that parent still protects their child instead of the stranger, they may feel more keenly that they have failed in their duty to the other person. 
+ 
+ 
+ 
+How Relevant Is It? 
+ 
+
+Which duty is most relevant to the situation in question? When you are making a decision about a specific situation, it is often the case that some of your many duties are more pressing than others because of the particular circumstances. Imagine a soldier in a combat situation whose platoon-mate is injured in pursuit of the enemy. Should this soldier stop and assist her injured comrade, or complete the mission and kill the enemy? Both of these duties are important, but which is more relevant? The answer will depend on a number of very specific factors: how badly injured is her comrade? Is anyone else available to help him? How likely is it that there will be another chance to kill this enemy? 
+ 
+
+It is worth remembering that for a civilian who is not bound to fight the enemy (and might even carry a strong prohibition against killing other people), this tension would be very different. Both soldier and civilian have a duty to help another person who is injured and in need, but the soldier has other duties that the civilian does not, and those duties might be more relevant than helping the wounded. 
+ 
+
+These two criteria enable a deontologist to balance the basic obligations that shape their life (the fundamental) against the particular demands of specific circumstances (the relevant). When a deontologist deprioritizes a specific duty—for example, if the soldier above drops her pursuit of the enemy to assist her platoon-mate—that person is neither rejecting nor ignoring that one duty; rather, they are determining that the best way to honor the full range of their duties requires them to prioritize other duties over that one in this particular moment. 
+ 
+ 
+
+Sidebar: Prioritizing the Right over the Good 
+ 
+
+Unlike some other approaches to ethics, it is frequently said that deontology is not organized around the question of what is good, but rather it is primarily concerned with what is “right.” A system organized around “right” may initially seem more constricting than a system organized around goodness, because right/wrong is a binary system and goodness is not. 
+ 
+
+But deontology actually allows for more freedom than goodness-based systems. A system concerned with goodness can encompass anything: any person, deed, or object can be evaluated in terms of how good it is compared to other things. When goodness is the metric for ethics, it’s (almost) always possible to get better, and being good requires that one constantly try to become better. A system of right and wrong, by contrast, leaves room for actions and experiences that are outside the bounds of ethical evaluation—that is, they are neither right nor wrong, and people can pursue those actions or not purely according to their preferences. 
+ 
+ 2.2.6 STRENGTHS AND WEAKNESSES OF DEONTOLOGY: IT’S NOT ALL ABOUT RULES 
+ 
+
+One of deontology’s strengths is that it insists upon the notion that there is a difference between the rightness and wrongness of action, and it does so by appealing to factors that do not automatically depend on the way the outcome of that action is received. In this way, deontology preserves the integrity of ethical action: our choices have value, regardless of whether other people recognize that value. At its worst, deontological thinking can enable fanaticism, leading people to believe they are justified in punishing others for doing things they take to be wrong. At its best, deontology can afford people the moral courage to stand against the majority, even when there is no obvious reward for doing so. 
+ 
+
+Another common criticism of deontology is that it does not focus enough on the consequences of action. Although it is true that deontology prioritizes human actions and intentions, as suggested above, most forms of deontology not only address but seriously consider the consequences and context of decisions and actions. Yet because of its emphasis on principles (laws, rules, and codes), deontology on its own seems to capture only a small portion of what it means to do ethics. And even more than that, it seems to operate as though the ethical life is a judicious process backed by a particular type of authority. In the mid-twentieth century, Elizabeth Anscombe offered a powerful argument against the legalistic language that was then dominant in moral discourse, arguing that without religious backing, such language makes very little sense and that therefore, unless we want to impose its religious significance upon everyone who wants to weigh in on matters of ethics, we ought to abandon it altogether. In her words: 
+ 
+
+The concepts of obligation and duty—moral obligation and moral duty, that is to say—and of what is morally right and wrong, and of the moral sense of “ought,” ought to be jettisoned if this is psychologically possible; because they are survivals, or derivatives from survivals, from an earlier conception of ethics which no longer generally survives, and are only harmful without it. (Anscombe 1958, 1) 
+ 
+
+Those forms of deontology that claim to ground the authority of moral principles and norms in human reason rather than divine decree have also been criticized. Kantian deontology in particular is frequently criticized for being overly rigorous and impractical. As noted, Kant insists that an action has no moral worth if it is not done out of duty. This means that, for instance, when someone donates to a charity and finds that the act brings them joy, and they decide to donate again and again, according to Kantian standards, this action has no moral worth. It is for reasons like this that people sometimes call Kant a moral purist or rigorist (Cohen 2014). Kant claims that a truly moral act is motivated by respect for the moral law and free from any other particular inclinations or desires. But human experience tells us that most of us act for a variety of reasons, and desire and emotion cannot easily be cast aside in order to evaluate the moral worth of particular actions—whether our own or someone else’s. 
+ 
+
+But perhaps the most important issue that arises within a deontological framework concerns what to do when conflicting duties arise. Although we have described some of the ways deontology handles conflicts and inconsistencies, the fact remains that the principles and rules that guide human conduct are not always easy to follow nor are the choices between them always clear. Quite often, the complexity of our lives and circumstances makes it impossible to abide by all of the rules and duties that bind us, no matter what we do. The impossibility of choosing a perfect course does not mean that deontology has failed or that those rules or duties cease to be binding. Instead, these clashes of duty should be seen as the reason deontology is valuable: it furnishes us with a way of thinking, perceiving, and living that enables us to realistically navigate difficult choices about the things that matter most. That said, there are other ethical frameworks to consider and other points of emphasis to consider as well. 
+ 
+ 
+
+Sidebar: The Challenges of Deontology and Artificial Intelligence 
+ 
+
+For most deontologists, the right or wrong decision must always be a choice; otherwise, one cannot take responsibility for it. The agent may feel a strong sense of obligation, or the call to duty might be strong, but in order for responsibility to exist there must be a choice, and the agent must have the capacity to choose differently. Defining deontology becomes complicated when we start thinking about automated agents, which are programmed to do certain tasks and which learn new things according to programs that have been written by humans. Are automated entities exercising responsibility in the deontological sense? Could this be on the horizon? 
+ 
+
+Deontology focuses on duties and obligations. What kinds of entities have duties and obligations? Typically, when we reference duties, rights, and obligations, we have in mind other people. But what are our duties with respect to other living creatures? And what about future generations? These are the types of questions deontology has traditionally asked. But new issues arise when we consider human beings’ relation to intelligent machines. What does a robot owe to a human? What does a human owe to a robot? What kind of demand can an artificial being make on human life, and how would that demand be justified? What these questions point to is a certain ambiguity about the nature of the relationship between humans and intelligent machines. If robots cannot have relationships with others, then what is at stake when we delegate a moral decision to a robot? 
+ 
+
+There is a growing body of work in computer science and related fields called machine ethics (i.e., programming or teaching machines how to act ethically) (Christian 2020; Dubber et al. 2020; Lin et al. 2017; Pereira and Lopes 2020; Wallach and Asaro 2020). Work in this area typically takes one of two main forms. In the bottom-up approach, systems or agents are given examples of proper behavior and attempt to abstract from those what to do in particular situations. In the top-down approach, systems or agents are given a set of rules in some formal, logical language and are expected to incorporate these rules into the actions that they decide to take. An important stream of research in this area focuses on harnessing the creativity of complex machine learning methods while still enforcing that the agents make decisions in line with outside constraints or rules (Rossi and Mattei 2019). 
+ 
+
+There has been a lot of press coverage of work in this area related to teaching autonomous cars how to act by surveying millions of people all over the world (Bonnefon et al. 2016). One key question for us is, do machines even have ethics? Whereas they can have rules or patterns of behavior, who or what is held responsible for the decisions they make? 
+ 
+
+Consider self-driving cars. They are trained by being given “traces” of human drivers as well as a set of rules to follow. They observe human drivers obeying traffic laws, avoiding obstacles, stopping for errant pedestrians, and other actions. If an autonomous vehicle stops for a pedestrian, a moose, or a flock of ducklings in the road, can it be said to be acting ethically? Note that moose are large, and that hitting one can do significant damage to a vehicle and possibly the occupants of the vehicle as well as to the moose. Does it make it less ethical (or less of an ethical concern) to stop for a moose than for a smaller animal? Does the vehicle’s decision to stop for the ducklings come from a respect for life or from a societal consensus to not injure cute animals? 
+ 
+ 
+ 
+Story Point: “Dolly,” by Elizabeth Bear 
+ 
+
+     
+
+    “She’s a machine. Where’s she going to get a jury of her peers? ” 
+     
+
+ 
+
+Can an android be a person, or could it become one? What obligations would its potential personhood impose on us? And how can those obligations be made visible to people or governments that assume they are only objects? These are the questions that Detective Roz Kirkbride and her partner Peter King end up wrestling with as they try to solve the murder of Clive Steele, who has been disemboweled by his new advanced-prototype home companion Dolly. “Dolly,” the story, offers a compelling window into how the framework of deontology can help us define and negotiate ethical conflicts. And the conundrum of Dolly herself illustrates both how our definitions and descriptions create the conditions for ethical analysis that follows. In so doing, it offers a way to understand how deontology gives us the resources to reevaluate baseline definitions and thus the duties and obligations that follow from them. 
+
+2.3 VIRTUE ETHICS 
+ 
+
+Virtue ethics is an approach to ethics organized around the idea of human flourishing and human excellence. Its basic assumption is that all human beings share some basic qualities of character, though we vary widely in how much we excel at those qualities and how we express them, and each of us gets better (or worse) at them according to our experiences. It further assumes that human beings are concerned with how to live the good life and that ethics is a subset of what it means to live a full and happy life. 
+ 
+ 
+2.3.1 OVERVIEW OF VIRTUE ETHICS 
+ 
+
+Unlike deontology and other approaches to ethics, where the focus is primarily on actions and intentions, virtue ethics focuses on the whole person: the qualities of character that they have and the patterns of living that issue from and reveal those qualities. That pattern of being is called a habitus. By cultivating excellence in a range of basic human capacities, called the virtues, a person likewise builds their capacity for a fulfilling life, because exercising these virtues is what enables them to live in alignment with their goals and desires (Hursthouse and Pettigrove 2016). For this reason, it is virtuous people who live happy and fulfilling lives (that is, who flourish): not because they are rewarded or deemed worthy by some external judge but because the practice of virtue helps them build and sustain a satisfying and rewarding life. 
+ 
+
+Nobody is born virtuous. In fact, it’s not really possible to be virtuous until you are an adult, or at least old enough to maintain the practice of virtue from your own habitus, rather than because some external force like a parent or teacher imposes it on you (Hursthouse and Pettigrove 2016). This does not mean that we are born vicious. Rather, virtue is developed over time, by emulating exemplary people and by cultivating good habits (Vallor 2016). Parents, teachers, and culture play major roles in shaping a person’s habitus, especially while the person is young. 
+ 
+
+Virtuousness is also not a one-time achievement, at any age. For one thing, virtue is complex: it is possible to excel in some virtues while being weak or inconsistent in others. In fact, most of us are like that (Athanassoulis 2000). Even more importantly, our capacity for any given virtue is not fixed: although a person’s habitus cannot change overnight, it can always shift by small degrees, and those small shifts can eventually add up to significant changes. It’s always possible—though never easy—to develop your capacity for a given virtue. It’s also possible to lose the capacity for a given virtue over time. Similar to physical muscles, virtues like courage or generosity grow stronger if you exercise them regularly, and they weaken if you don’t use them (Annas 2011). In other words, the exercise of virtue is not based simply on a theoretical understanding of the right thing to do, but through ongoing practice (Vallor 2016). 
+ 
+
+Like deontology, virtue ethics is deeply concerned with the interior lives of individuals and why we do the things we do. In contrast to deontology, however, virtue ethics emphasizes the importance of actions as an indicator of a person’s character. Although any one individual action may be hard to interpret (or may even be misleading), the long-term pattern of a person’s actions across multiple contexts will reveal their character by indicating how well, to what degree, and in what ways they exercise those basic human capacities that are the virtues. 
+ 
+
+Virtue ethics is a goal-driven framework for thinking about ethics. It aims toward the creation of good outcomes and of happy, flourishing people. From within a virtue ethics framework, these two goals are impossible to separate: a good society is good because it makes it possible for people to flourish and develop human excellence. 
+
+ 
+2.3.2 WHAT ARE VIRTUES? 
+ 
+
+Virtues are the basic building blocks of human character; they are fundamental qualities like kindness, playfulness, or self-respect. Virtues are not qualities that only some people possess; rather, a virtue is the capacity to exercise that quality. According to virtue ethics, every person is endowed with the same basic library of virtues, and the potential to excel in any of these virtues is part of our basic makeup. Therefore, what differentiates us from one another is not whether or not we possess a given virtue, but rather the degree to which we have developed (or our parents and teachers have developed in us) the ability to exercise that virtue. Within a virtue ethics framework, a chronic liar would be understood as being very deficient in honesty rather than lacking honesty entirely. Given the right conditions and a genuine desire on that person’s part to become more honest, they could over time develop a greater capacity for honesty. 
+ 
+
+Virtues are revealed not through single actions but rather through patterns of action. For example, a single act of benevolence is not enough to know that a person is meaningfully kind or generous, because any number of external causes and internal motivations might have prompted that one benevolent action. It is only when a person shows benevolence in a range of circumstances that one can be confident that they have a well-developed capacity for benevolence (Sreenivasan, 2002). In the words of Rosalind Hursthouse, virtues “go all the way down”; having a well-developed capacity for a given virtue means that you will “notice, expect, value, feel, desire, choose, act, and react in certain characteristic ways” (Hursthouse and Pettigrove 2016). 
+ 
+
+Thinking about human character in terms of virtues—that is, in terms of a common library of basic capacities—is useful in several ways. First, it helps us think comparatively about the differences between people (or even different versions of ourselves), because those differences can be understood as different ways of inhabiting or expressing the same basic qualities. Second, it provides us with a framework for thinking about how multiple aspects of a person’s character work in combination to shape how that person will act in a given moment. And finally, it equips us to think about how our environments can impact our character, by encouraging or reinforcing the exercise of some virtues and creating barriers to the exercise of others. 
+ 
+ 
+ 
+2.3.3 CONFUCIAN VIRTUE ETHICS 
+ 
+
+The predominant form of virtue ethics in East Asia comes from the teachings of the ancient Chinese philosopher Confucius (Latinized from Kongzi, or “Master Kong”). He was inspired by a desire to return to what he saw as the excellence of the earlier Zhou Dynasty social system in contrast to the turmoil of his own time (the late fifth century BCE). Over time after his death, his disciples compiled quotes attributed to him into the Analects (Legge [1861] 2017) and expanded the Confucian canon with other classics, such as the Mencius and the Doctrine of the Mean. 
+ 
+
+In early Imperial China, Confucianism competed with other emerging ideologies known as the “Hundred Schools of Thought,” including the heavy-handed Legalism of the short-lived Qin Dynasty (221–206 BCE) and the more libertarian Daoism of the early Han Dynasty (206 BCE–220 CE), to eventually become a principal guiding force for Han governance. The later neo-Confucian renaissance, emerging as a secularist response to the prevailing Buddhist and Daoist spirituality during the Song Dynasty (906–1279 CE), solidified Confucianism’s place in the core of Chinese philosophy up to the modern era (Yao 2000). 
+ 
+
+In the Confucian tradition, our interpersonal bonds are a fundamental part of what makes us people; the project of growing as a person is one of developing mutual care and respect in our relationships as parent/child, teacher/student, friend/friend, and so on (Santiago 2008; Wong 2020). Though we are each given unique circumstances based on the family, nation, and other groups we are born into, we are all basically the same by nature at birth, and it is habituation that differentiates us (Analects 17.2). Confucius’s disciple Mencius posits that this nature includes the “seeds” that may eventually grow into the core virtues of ren (often translated as “benevolence”), yi (“righteousness”), li (“propriety”), and zhi (“wisdom”) (Yu 2013). 
+ 
+
+An important tool for cultivating virtues in Confucianism is mindful exercise of social rituals (Wong 2020). Consider the practices of offering a handshake or bow to a business partner, reciting vows at a Western Christian wedding, holding a funeral when someone dies, and taking off one’s shoes before entering an Islamic mosque or a Hindu temple. Rather than intended to be enacted mechanistically, these rituals are meant to help the performer get into a mind-set of respect: for their colleague, for their marital commitment, for the deceased, or for the divine. This idea is central to how Confucius believed a society should be governed; although people might be coerced to behave well through the threat of punishment, a gentler route of teaching them to be virtuous through a system of meaningful rituals would promote flourishing as well as order. 
+
+2.3.4 ARISTOTELIAN VIRTUE ETHICS 
+ 
+
+In European and American philosophy, the prevailing form of virtue ethics can be traced to ancient Greece. Its foundational text is Aristotle’s Nicomachean Ethics, which was written around roughly 340 BCE, during the so-called Golden Age. The first sustained treatise on ethics produced in classical-era Greece, it remained very influential on Greek and Roman thought over the next several hundred years. Like most other Greek language works, the Nicomachean Ethics was not widely known in Latin-speaking Europe during much of the Middle Ages. But it remained popular in the Islamic world in Arabic translation and was “rediscovered” by Christian Europe during the twelfth century along with several of Aristotle’s works in other disciplines (such as formal logic, biology, and political theory), thanks in part to its preservation in Arabic. Within a few decades, the Nicomachean Ethics became the Western world’s definitive account of human nature and how to live well. In the thirteenth and fourteenth centuries, Aristotle was the single most important ancient thinker among Jewish, Christian, and Muslim thinkers, who referred to him in their writings simply as “the Philosopher” and who worked in various ways to harmonize the Nicomachean Ethics with their respective beliefs and practices. 
+ 
+
+Aristotle’s goal in the Nicomachean Ethics is to ascertain what things a human being needs to do in order to achieve deep happiness and satisfaction with life—to flourish. He concludes that we need a rational understanding of what things make us happy and how those things can be acquired and kept. But he also argues that an understanding of general principles is not enough; we need particular qualities of character both to help us recognize the things that will make us happy and to ensure that we are able to pursue them effectively. These virtues exist in all of us in potential, and cultivating them will help us flourish. 
+ 
+
+The Nicomachean Ethics lists 11 moral virtues that must be developed through habituation. Later proponents of Aristotelianism have revised and adapted this list in various ways, either to integrate Aristotelianism with another specific system of thought (such as Islam) or to help it better match the world as they saw it. Some of the virtues that consistently feature across different Aristotelian traditions are courage, generosity, friendliness, temperance, and concern for justice. In order to flourish, one must also have a well-developed sense of practical wisdom, or the understanding of how best to act in a given situation. For Aristotle, acting in a manner that appears virtuous is not sufficient evidence that a person is virtuous. Rather, that person must either be acting out of deep inclinations of their character or because they know that those actions are good and have chosen them for that reason (Aristotle, Nicomachean Ethics 2.4/1105a16–1105b20). 
+
+2.3.5 APPETITES, DESIRES, AND VIRTUOUSNESS 
+ 
+
+Because virtue ethics is concerned with the whole life of the moral agent, it considers more than our actions and intentions. It also considers our basic physical appetites like hunger and fear, and our emotional or psychological desires. The fact that these appetites and desires are a basic part of human nature means that they are fundamentally good for humans, and necessary for us to flourish. Of course, any of these appetites can be damaging to a person if they are indulged to excess or at the expense of other good things (Schwitzgebel 2007). But suppressing the appetites entirely is just as damaging to a person as allowing them to expand out of control. That is why virtue ethics insists on the importance of learning to regulate appetites and desires and to exercise them in moderation. 
+ 
+
+But not all ways of regulating desires and appetites are the same, even though they might look the same from the outside. Most of us are familiar with the experience of turning down something that we want—a piece of cake, or the answer key to tomorrow’s big exam—because we know that we will be better off without it, in one way or another. This forcible restraining of one’s own appetites or desires is called continence. A person can cultivate their capacity for continence in the same way that they can cultivate virtues. But continence is not itself a virtue, because it requires us to suppress our desires and appetites. 
+ 
+
+A different and better way to ensure that you exercise your appetites and desires appropriately is to train yourself into wanting to do what is right. This alignment of desires with right action appears in the Aristotelian tradition as the virtue of temperance, that is, having appetites that are attuned with what is right, and in the Confucian tradition by a state of being that can be called wholeheartedness, in which one does not feel internal resistance or conflict but is genuinely and joyfully committed to a course of action or way of being. If you have ever been really excited to work on a class project or found yourself saying no to dessert because you feel pleasantly full after a good meal, then you have an idea of what these things refer to. 
+ 
+
+Continence has much more in common with temperance and wholeheartedness than it does with various forms of bad living, such as vice (that is, the extreme states of being that virtues avoid) or being ruled by one’s appetites. Very broadly speaking, for there is a great deal of disagreement among thinkers and sages, the Confucian tradition raises serious concerns about relying on continence, worrying that it could lead a person to become more concerned with the outward appearance of virtue rather than true virtuousness (Angle 2013). The Aristotelian tradition, broadly speaking, is more positive, celebrating continence as the exercise of the rational part over the nonrational and perceiving it of one’s progress toward temperance (Aristotle, Nicomachean Ethics 1.13, 1102b26–28; Scarre 2013; Stohr 2003). 
+ 
+
+But across traditions, there is widespread agreement that true virtue requires more than continence: it requires that a person truly want to do what is right and best. This isn’t just because calibrating your desires with your judgment means that you will reliably do the right thing, although that’s also true; it’s because doing so is what will make you happy. And that, after all, is what flourishing is: living a satisfying and fulfilling life. 
+
+2.3.6 HABITUATION: DEVELOPING VIRTUE 
+ 
+
+Every culture educates its children into its own ideas about what virtues are important and how those virtues are expressed and recognized. This education can come in the form of intentionally crafted lessons, or in simple immersion in the daily workings of that culture. This cultural training, in all its official and unofficial forms, is known as habituation. 
+ 
+
+As a person grows to adulthood, his patterns of thought and action—all of which are influenced by his home culture(s), even if they are a reaction against it—become more entrenched until they seem like the “normal” way of being for him. This normal way of being is called a habitus, or interlocking set of habits that are what feels right or natural for him. To have a habitus does not mean that one doesn’t understand that there are other ways to live in the world or that those other ways can be ethically valid. It is simply to have habits of one’s own. 
+ 
+
+A large part of a person’s habitus comes from doing the things that seem “normal” in their country, in their community, in their family, and among their friends. In general, people are far more aware of those aspects of their habitus that set them apart from their friends, family or neighbors. This is because the similarities are often understood to be “normal,” or “just how people are,” to the point that people do not notice them at all. 
+ 
+
+According to virtue ethics, and possibly according to your own experience as well, new habits—whether virtuous or vicious—are hard to cultivate, and old habits are hard to break. But though it is not easy, it is possible. Through steady, deliberate choice on the part of the agent, or steady exposure to a new set of circumstances, an agent can gradually become habituated to a new pattern or set of patterns. In this way, people can (and do) become more or less virtuous over time. 
+ 
+
+Most people never become perfect in any virtue, let alone in all of them. For this reason, it is better to think of virtue as a spectrum rather than as a binary. You can become more courageous than you were before without being perfect at it, or less generous than you were while still retaining some generosity. Although habitus makes it easy to keep doing what we are doing already, it is always possible to cultivate greater virtue, or to let a virtue lapse. To put it another way, virtues are not a pass/fail system—you’re almost always somewhere between perfectly virtuous and perfectly vicious—and your grade is never final. 
+
+2.3.7 HOW THE VIRTUES WORK IN TANDEM 
+ 
+
+Virtues do not exist in isolation from one another or from the rest of our character; they are our character, operating in complex combinations in everything that we do (Chen 2015). This is not because virtue ethics considers every single action to be moral in the narrow sense, but because plenty of qualities that are not obviously moral, such as physical prowess or technical knowledge, can also be understood as virtues, even though Aristotle did not consider them to be such (Putman 1997; Stalnaker 2010). 
+ 
+
+By thinking about each virtue as one element of an interrelated whole, it can become easier to see how virtues that are not obviously moral, like technical skill or physical strength, can also have moral significance (Putman 1997). Imagine, for example, that a friend of yours is organizing a fundraiser for a charitable cause that you also support, and this friend asks you to donate your time to build a website to manage fundraising for the event. In donating your time, you are exercising the recognizably moral virtue of generosity. But you will need more than generosity to build a site that is appealing, easy to find, and easy to navigate: you will also need programming and human-computer interaction skills, as well as knowledge about handling charitable donations, Paypal and credit card accounts, and perhaps the logistics of relevant tax law. These are technical skills that could be used for many purposes: you could get paid for these same skills by your employer (which is reasonable and responsible, but not particularly generous) or you could donate them to build a website to steal credit card numbers. Being good at designing webpages does not make you generous, but it does make your generosity more effective in this situation. It’s also the case that both your generosity and your skill in web design will be more valuable if you are practiced at them. However, note that a very skilled and practiced designer who said yes would be exercising less generosity than a novice designer who did—after all, the experienced designer can fulfill her pledge with a lot less time and hassle. Likewise, a person who is unused to being generous may agree to build the website but is far less likely to follow through in putting in the time and energy required to build and maintain a successful and appealing site. 
+
+2.3.8 MODALITIES FOR JUDGMENT 
+ 
+
+Because virtue ethics takes a character-based approach to the world, it cannot and does not aim to offer principles or formulae that can be equally well applied by any person. Instead, it focuses on ways in which a person can draw on the resources of their character to attend to the particularity of specific situations (which, after all, are the only kind of situations we ever experience). Of course, a person of underdeveloped virtues will find these modalities much less useful than a person of good character. Likewise, a person of excellent character is far less likely to need to use these modalities consciously, as they will emerge organically from that person’s habitus. 
+ 
+
+Because our character—including our ability to make use of the following modalities—creates the conditions for how we perceive, interpret and act, a virtue ethicist might say that any given decision is 95% made by the time you realize that you have to make it. Therefore, the best way to engage in good decision making, according to virtue ethics, is to cultivate those capacities that you want to be able to bring to bear in deciding and acting, by building good habits and modeling yourself after exemplary people. 
+ 
+ 
+Practical Wisdom 
+ 
+
+The key to acting well in virtue ethics is practical wisdom, or the ability to judge what the best action would be in any given situation. Practical wisdom is conceptualized differently by different virtue ethics traditions, but it is central to all of them. A person with a well-developed sense of practical wisdom will be able to perceive and understand the precise nature of what is going on in a specific set of circumstances and will likewise understand what kind of response that moment requires (Vallor 2016). This understanding and response necessarily combines perceptual acuity with the desire to do what is good; a person who delivers cutting insults at exactly the moment when they will hurt most might be said to be clever or perceptive in ways that partially resemble practical wisdom, but such a person is not practically wise (Clarke 2010; Yu 1998). In keeping with virtue ethics’ character-based approach to living well, practical wisdom is itself a virtue, which an individual must develop over time. 
+ 
+
+Practical wisdom can be developed only through experience. For this reason, children and teenagers cannot yet possess practical wisdom and shouldn’t be expected to. If this distinction seems unfair to you, consider the difference in how we might evaluate a well-intentioned teenager who disregards a friend’s statement that they hate surprise parties and throws one for the friend anyway, as opposed to a well-intentioned adult who does the same (Hursthouse and Pettigrove 2016). It’s not hard to imagine the teenager being genuinely surprised and distressed to learn that their friend’s preferences do not match their own, because teenagers have had less exposure to a wide variety of people with different temperaments and preferences. We as observers might have known the party would backfire, but this does not necessarily lead us to doubt the good intentions of the teenaged party planner. By contrast, the party-throwing adult has had many more years of interacting with others, and thus has had more time to develop the perception and judgment that could help them distinguish between another person’s genuinely felt dislike of surprise parties and their self-effacing concern that they are causing fuss for their friends. Whether or not we doubt the sincerity of the adult party-planner’s good intentions, we are more likely to think of them as at fault for the hurt they cause. Though neither the teenager nor the adult has exercised practical wisdom in deciding to plan the party, it is likely only the adult whose actions will make us think “they should have known better.” 
+ 
+
+Practical wisdom is culturally specific, in multiple ways. Firstly, a person who excels in practical wisdom will always be informed by their own culture and time period’s specific ideas of what constitutes flourishing (Vallor 2016). Secondly, a given action or way of being will not elicit the same response across time and place—for example, what seems appropriately friendly in one setting might come across as cold or distant in another—and being attuned to that local variation is part of what practical wisdom entails. Therefore, it must by definition be calibrated to the specifics of its setting. 
+ 
+
+Practical wisdom guides the exercise of other virtues, but it cannot replace them. Imagine, for example, that you and a friend are having an argument and that you both have gotten very angry. Then your friend says something that makes you understand the whole situation differently. If you have a well-developed sense of practical wisdom, you might be able to perceive how your friend’s comment offers an opportunity to de-escalate the argument and make peace. But unless you are also disposed to let go of your anger—or at least capable of controlling it—you might not be able to make good use of that opportunity, even though your practical wisdom tells you that it would be a good idea. 
+
+Finding the Mean 
+ 
+
+As you have probably already noticed, virtue ethics is organized around the idea of moderation. Acting virtuously requires finding the middle path between excess and deficiency (Nicomachean Ethics, Book II.7 p. 25; Analects 15:3). It also requires that we pay attention to the specifics of a situation, because different situations require different responses: the right amount of courage (or cheerfulness, or honesty) for one occasion might be excessive for a different one (Lunyu, cited in Xia 2020). This point of perfect balance between extremes is known in the Confucian tradition as “the doctrine of the mean” (Zhongyong, cited in Plaks 1999) and in the Aristotelian tradition as “the golden mean.” 
+ 
+
+To understand how a virtue could be exercised excessively, imagine a soldier who is considering a risky solo strike attack to provide cover for the other soldiers in his unit. Carrying out such an attack would be brave, regardless of circumstances. But in some situations, it might be too brave—in other words, reckless. A hot-blooded soldier who is immune to fear can make things worse by rushing in even when there is no advantage to be gained or when she is not sufficiently skilled to succeed. The most virtuous soldier, therefore—the one who possesses not only courage and skill, but also sufficient practical wisdom to pay attention to the mean—is the one who is unafraid to fight when it will be helpful, but not so eager that he fails to think about tactics. 
+ 
+
+Aiming for the mean can give you a concrete method for imagining what excessive or deficient responses would look like and enable you to come up with a better course of action in order to avoid those extremes. But realistically, achieving the mean also requires a well-developed faculty of practical wisdom. And doing the right thing also requires you to have developed all the relevant virtues to the degree that the situation requires, so that you are able to go beyond just having the right idea about what a good response would be. 
+
+Sidebar: Aristotelian Virtues as a Mean between Vices 
+ 
+
+In the Nicomachean Ethics, Aristotle describes the moral virtues as existing at an intermediate point between two extremes of vice. (Aristotle 2.8) The following table lays out some of the moral virtues described in the Nicomachean Ethics, along with the vices that represent an excessive or deficient exercise of that same quality. Presenting them grouped together in this way should make clearer what “finding the mean” looks like in practice. 
+ 
+ 
+	
+
+This virtue is the midpoint
+	
+
+between this excess
+	
+
+and this deficiency
+	
+	
+
+courage
+	
+
+recklessness
+	
+
+cowardice
+	
+	
+
+friendliness
+	
+
+flattery and fawning
+	
+
+crankiness
+	
+	
+
+temperance
+	
+
+overindulgence
+	
+
+lack of appreciation for pleasures
+	
+	
+
+generosity
+	
+
+careless overspending
+	
+
+stinginess
+	
+ 
+ 
+
+It’s worth noting that the precisely suitable degree of exercising a given virtue (known in the Aristotelian tradition as the golden mean) will not be the mathematical center point between the two extremes and will vary from situation to situation. For this reason, one’s exercise of virtue needs to be guided by practical wisdom. 
+
+2.3.9 STRENGTHS AND WEAKNESSES OF VIRTUE ETHICS: FLOURISHING IS EASY (ONCE YOU’RE THERE) 
+ 
+
+A person is said to be truly virtuous only if they find it easy to be virtuous: they are wholehearted in their desire to do what is right, and they do not require continence or external pressure to continue in virtuous habits. 
+ 
+
+Connecting virtue to flourishing in this way—to a person’s felt desire to act virtuously—may seem counterintuitive at first glance. Isn’t it more courageous to be brave when an action one must take is extremely dangerous (e.g., rescuing a child by running into a burning building), or more impressively generous for a very poor person to donate money to a disaster relief organization after a major flood? These are indeed two examples of exceptional virtue, in which the agents are being virtuous under conditions of extreme external pressure. Both of them are exercising their respective virtues (courage and charity) in spite of the risks it poses to them, in a way that suggests that they truly excel at those respective virtues (Foot 1978). 
+ 
+
+But if a person finds it difficult to be virtuous because it does not match their internal desires and values—in other words, because they don’t entirely want to be—then that difficulty reflects the limits of their wholehearted commitment to that virtue (Foot 1978; Tiwald 2018). In comparison to the two people in the paragraph above, imagine a person who speaks up in a meeting despite being nervous, or who donates money to disaster relief even though she dislikes giving money away. In both cases, these actions are difficult because of insufficient virtue (courage or generosity) on the part of the actor. That is not to say that these actions aren’t good! In addition to the contributions they are making, both of these people are controlling their less virtuous impulses, and possibly building new habits. Both of these people might be on that path to greater virtuousness if these actions represent part of an overall shift in habitus. The timid speaker may find it easier to talk next time, and the resentful donor may donate again because it made her feel good the first time. But it’s impossible to know whether either of those things will happen on the basis of only those first, single actions. The actions a person undertakes to shift their habitus are best understood in the long term: in six months, or six years, each of these people may have become more virtuous than they were before, by cultivating new habits (or shaking off old ones). 
+ 
+
+Being truly virtuous also requires maintaining those virtues across interactions with different people; for instance, a truly generous person finds it easy to help strangers as well as friends and family. But virtue ethics does not necessarily emphasize universality in the same way as some other ethical frameworks. It comes naturally to many people to feel the most concern for the people closest to them. In fact, in the Confucian tradition, familial love is the root of all other love and it is reasonable to give greater moral priority to these relationships (with filial piety being one of the most important virtues); to become a generally moral person is to take your circle of care for those closest to you and expand it outwards to encompass others (Curzer 2018; Yu 2007; Zhu 2002). 
+ 
+
+While virtue ethics’ attunement to local norms is one of its strengths, this same quality is often criticized as a weakness. Because the virtues celebrated by one community are sometimes very different from the virtues celebrated by another, virtue ethics does not furnish a good foundation for universal principles, including a universal principle of justice. Virtue ethics has also been criticized for conceiving of the good life in a way that makes it difficult, if not impossible, for people with some disabilities or neurodivergencies to meet its criteria for human excellence. In particular, Furey (2017) has argued that virtue ethics is a problematic fit for engineering ethics in particular, because Aristotle’s picture of flourishing presupposes a model of the human mind with strong capacities for emotionally engaged and intuitionistic decision making, and those capacities don’t come as naturally to many people on the autism spectrum, a population particularly heavily represented in engineering. 
+ 
+ 
+
+Sidebar: Understanding Virtue Ethics through Role-Playing Games 
+ 
+
+One potentially useful way to think about the cultivation of virtues is role-playing games (RPGs), in which it is necessary to build your character’s skills slowly over time in accordance with your goals for the character. Although skill building in RPGs is not always presented as having a specifically moral dimension, the underlying mechanics can be helpful for thinking about virtue ethics. 
+ 
+
+When you start out playing a game like Baldur’s Gate, Fallout, or Mass Effect, you have an array of skills, but you’re not very good at any of them yet. If you want to get better at climbing or communication or spell-casting, then you have to practice. As you practice, your ability level improves. This practice is not so different from habituation, the building-up or cultivation of a certain virtue through practice. It’s also not so different from practicing a sport or a musical instrument. 
+ 
+
+Moreover, the best way to solve any given problem is not going to be the same for every player. Some challenges are simply impossible for lower-level players who have not yet built up their skills to the necessary point. Other challenges will have different solutions. How do you get past a locked door? Your answer will depend on whether your character is a magician or a thief. 
+ 
+
+In an RPG, the mage and the mercenary will be able to address a given challenge differently because of their different skill sets, but the way the player perceives the problem is likely to be consistent. In the real world, the differences between the mercenary and the mage will go deeper: what seems possible or reasonable to the mercenary (defeat a guard in combat, break through a door) will seem imprudent or impossible to the mage, whereas the mage’s solution (unlock the door with magic) will seem fanciful or impossible to the fighter. Each character’s habits of thinking will be shaped by their past habits, and by the virtues or skills that have in their experience been relevant to making important decisions. 
+ 
+
+Of course, in real life you don’t usually have the choice to put a challenging situation on hold and come back when you have leveled up: you have to face it when it confronts you. That’s why it is important not to put off cultivating your capacity for virtue until later. You might have to fight the dragon tomorrow. 
+
+Story Point: “The Gambler,” by Paolo Bacigalupi 
+ 
+
+     
+
+    I try to protest. “But you hired me to write the important stories. The stories about politics and the government, to continue the traditions of the old newspapers. I remember what you said when you hired me.” 
+     
+
+    “Yeah, well.” She looks away. “I was thinking more about a good scandal.” 
+     
+
+    “The checkerspot is a scandal. That butterfly is now gone.” 
+     
+
+    She sighs. “No, it’s not a scandal. It’s just a depressing story. No one reads a depressing story, at least, not more than once. And no one subscribes to a depressing byline feed.” 
+     
+
+ 
+
+How can we be the version of ourselves that we want to be, even in times of crisis or under pressure from the outside world? And how can we influence the world around us for the better when the world doesn’t necessarily want to be influenced in those ways? These universal questions take on particular sharpness for Ong, a Laotian refugee who works as a journalist for a major American media company. Ong writes articles about the issues he considers most important, such as climate change and the fallout of government mismanagement. But such articles don’t align very well with the reading habits of the American public, who instead give their clicks to product reviews and celebrity scandals. “The Gambler” offers us several high-stakes moments, but among the various characters in the story—Marty Mackley, the master of infotainment; Janice, Ong’s results-oriented boss; Kulaap, who balances her Laotian and American identities in a way Ong cannot quite understand; and of course Ong himself—there is no consensus on what kind of response those high-stakes moments call for. Indeed, there is not even consensus on what really counts as a high-stakes moment in the first place: each character has different judgments about the lines between “real news,” distractions, and depressing stories. But as “The Gambler” illustrates, our choices in those moments are rooted in the longer arc of our character. 
+
+2.4 COMMUNITARIANISM 
+ 
+
+Communitarianism is an approach to ethics organized around self-realization in the context of interdependence. Its basic assumption is that human beings exist in a state of mutual reliance on one another (Masolo 2010; Smith-Morris 2020). Although this interdependence includes material goods like shelter and safety, the more significant dimension of our interdependence concerns the many social, spiritual, and psychological goods that can only come from relationships with others. Because we are interdependent, everybody benefits from investing in the common good, or the well-being of the community as a whole (Masolo 2010; Wiredu 1992a). 
+ 
+ 
+2.4.1 OVERVIEW OF COMMUNITARIANISM 
+ 
+
+Instead of conceiving of communities as collections of individuals who have decided to make common cause, communitarianism posits that communities exist prior to any individual born and raised within them (Menkiti 1984). By furnishing the language, values and relationships that form the basis of an individual’s experience, a community is necessarily foundational to understanding the character, goals, and potential of any individual within it. Furthermore, because of our interdependence, that individual’s self-realization—that is, the fulfillment of the individual’s potential and aims for themself—can take place only in a community setting, because relationships with others are essential to the structure and development of the self and because they create the context that makes an individual’s aims significant (Gyekye 1997, Masolo 2010). 
+ 
+
+The idea of community that underwrites communitarianism does not include every single kind of community that exists. Rather, it refers to the kind of community in which a person might be said to have grown up. It requires not only shared interests and values among members but a sustained mutual commitment and a developed sense of what it means to live in common (Coetzee 2003; Gyekye 1992). There are many communities that have some of these qualities, but not all of them. You will likely find that the communitarian framework is helpful in reflecting on how these communities work, but that focusing on one such community to the exclusion of others will give you only a piecemeal picture of the lives of its members. 
+ 
+
+While communitarian ethics does not presume any one community structure or set of norms, it does presume that communities exist and that they have structure and norms of some kind that they recognize and claim as their own. It further posits that any person can and must be understood as being formed by a community (or perhaps more than one). Being formed in this way means that an individual shares in the social meanings of their communities, and that their understanding of themselves and of the value of their goals is grounded in those shared social meanings (Masolo 2010; Smith-Morris 2020). This is not to deny that there are people who conduct their lives without strong social ties or a sense of shared commitment to others. But according to the baseline premises of communitarianism, any person who lives in isolation from a community of shared values and ideals—“an abstract dangling personality,” to use Polycarp Ikuenobe’s striking phrase—will not be able to achieve self-realization (Ikuenobe 2006). 
+ 
+
+Although it does not presume any specific moral or social norms, communitarianism does make some general assumptions about how communities work. The first is that they are enduring and have patterns, processes, and structures that exist prior to the individuals who are formed by them (Menkiti 1984; Smith-Morris 2020). The second is that their shared wisdom is carried to a large extent by elders, who are not merely the older members of the community but are those who have excelled in the forms of living that the community values, particularly in sympathetic awareness of the needs of others (Masolo 2010; Menkiti 1984; Smith-Morris 2020). Both of these assumptions are more broadly and transparently applicable to people who spend most of their lives in one place, a pattern of life that is increasingly uncommon. Nonetheless, when you use the lens of communitarianism to think about your own life, you will likely find that you belong to some communities that match this description, even if your life does not take place entirely within them. 
+ 
+
+In order to grasp why the communitarian framework presumes interdependence, it’s helpful to understand the role that community plays in a person’s self-realization. Even though you as an individual can decide what kind of person you want to be and what achievements are important to you, you (like everyone else) rely on others in order to become that person and achieve those goals, in three distinct but interrelated ways. 
+ 
+
+The first way is that others in your community furnish you with many kinds of support in your work and development, from material goods (like food and public roads) to emotional and psychological goods (like love and conversation). The second way is that achieving your goals for yourself, whether in practical accomplishments or in character, rarely feels satisfying or even real unless somebody else recognizes and affirms what you have achieved or become (Gbadegesin 1991; Presbey 2002). Shared social rituals like weddings, coming-of-age ceremonies, and graduations are easily visible examples of how a community marks an individual’s achievement or growth. But even small ordinary gestures of recognition like a professional title are often important for helping someone feel that their achievements are real and valuable. 
+ 
+
+The third way individuals depend on their community for self-realization is rooted in the fact that communities exist prior to individuals and supply the shared social meanings that individuals use to think about their lives (Smith-Morris 2020). Imagine, for example, that you have grown up in a community where most people want to be professional athletes, but you are more interested in becoming a doctor. Although you may think that this goal sets you apart from your community, the specific shape of your goal is still shaped by your community. Every society has medical practitioners of some kind, and different communities have very different ideas about the social role that medical practitioners play. These varying expectations occur not only because the nature and rigor of medical training varies widely but because different communities have different degrees of trust in what the doctors they know claim to do (or whether they will do what they claim). Even if your desire to be a doctor is unusual in your community, your specific ideas about being a doctor will reflect your own community’s understanding of what doctors are like and what makes that a valuable goal. 
+ 
+
+For these reasons, your self-realization needs to be understood in the context of your community. Your community also shares in your attainments, whether it is achieving a concrete goal or becoming an excellent person (Ikuenobe 2006). Not only has the community helped to support you along the way, but the fact that you aimed for and achieved that goal is understood as a sign that the community has successfully raised and educated you to carry on the community’s values and practices (Menkiti 1984). This does not mean that every single community you have belonged to plays an equal role in your development and your successes, but it does mean that these things can be traced back to a community that has been important to you. 
+
+2.4.2 SOURCES OF COMMUNITARIAN ETHICS 
+ 
+
+The form of communitarianism discussed here is rooted in indigenous philosophy, traditions and lived community practices. This type of communitarianism is challenging to represent here, for several reasons. It’s important to discuss those reasons here, because they may already be influencing the way you are thinking about this framework. 
+ 
+
+The first difficulty has to do with the challenge of retrieving sources of indigenous thought. Communitarianism was a common form of life in many parts of the world prior to the era of European colonization which began in the fifteenth century CE, including the lands that now comprise Australia, sub-Saharan Africa, much of North America, and parts of Southeast Asia. The societies in these regions were transformed, often violently, when their homelands were “discovered” and settled by European explorers, who largely treated these societies’ lands (and sometimes the people themselves) as a source of wealth for their home countries. During these violent upheavals, large swaths of these indigenous communities’ knowledge and tradition were eradicated. Some strands of knowledge and tradition were preserved in the minds and memories of survivors but in decontextualized forms that were different from those of prior generations. Our contemporary knowledge of those past ways of life is indelibly shaped, and limited, by that destructive history. 
+ 
+
+In addition to this very practical challenge, there is also a conceptual challenge. European nations justified their colonial project by claiming that the peoples they conquered were lesser forms of humans—or not even human at all—because they were not “rational” in the same way (Ani 2013; Biakolo 2003). The idea that humanness depends on rationality can be traced to ancient Greece and, indeed, was used by Aristotle and other Greek philosophers to denigrate some non-Greek peoples (Biakolo 2003). But the specific form of rationality that mattered to the Europeans of the fifteenth and sixteenth centuries was the newly developed principles of “scientific reasoning” (Naudé 2019). Because the worldviews and thought patterns of the indigenous societies that they encountered did not mesh with their own recently developed ideas about universal reason, the colonizers (along with observers in their home countries) concluded that these communities were incapable of higher-level thought, or at least had not developed it yet (Biakolo 2003; Nicholas 2018). Although it is easy to look back and see the error and hubris of that judgment, its legacy continues to shape how non-European peoples and their knowledge traditions are perceived today—including in the field of ethics, which (like many academic disciplines) is only just beginning to reckon with how some of its standards and practices continue to make it inhospitable to non-European traditions of knowledge (Ani 2013; Hallen and Sodipo 1997; Outlaw 1987; Oyěwùmí 1997; Serequeberhan 2003; Wiredu 1992b; see also Wiredu 2009). 
+ 
+
+Many of the indigenous communitarian societies mentioned above continue into the present, adapting the core practices of communitarian ethics to the institutional structures of the settler states that now control their homelands (Smith-Morris 2020). For both practical reasons and because of ingrained philosophical biases, these communities’ frameworks and traditions are rarely given the same philosophical credence as writings from the European traditions. Yet indigenous communitarianism significantly enriches our conceptual vocabulary for doing ethics. 
+ 
+
+Although these various indigenous communitarian traditions have many points of overlap among them, limitations of space make it impossible to discuss commonalities in a way that can truthfully represent them all. Therefore, the remainder of this unit focuses specifically on the communitarianism of sub-Saharan Africa, which is internally diverse but also coheres around a handful of core ideas and themes. Among these shared ideas is a particularly well-developed conceptual apparatus for communally based self-realization. 
+ 
+
+The communitarian framework presented here cannot be, and does not aim to be, a direct representation of what precolonial Africa was “really like.” Instead, it offers an overview of the philosophical efforts by African scholars to theorize, systematize and reflect on those aspects of noncolonized African culture that endure, or those elements of precolonial Africa that can be recovered. 
+ 
+
+It should be noted that communitarian philosophy and practices have also emerged in the culture and thought of Europe and America (Masolo 2010). Political philosophers Michael Sandel and Michael Walzer and philosopher/theologian Alisdair MacIntyre have each argued for the merit and moral urgency of a turn to communitarianism, responding to and drawing from the Euro-American tradition (MacIntyre 2013; Sandel 2010; Walzer 1990). As these thinkers all note, communitarianism is deeply at odds with the structure of the modern western capitalist state. Nonetheless, several communitarian movements have developed. One of the most widespread of these is the Catholic Worker Movement, which began in the United States in the early 1930s as a means to bring about a “society in which it will be easier to be good” (Cornell 2006). Initially just a newspaper, this movement soon expanded to include both independent houses and cooperative farms. The Catholic Worker Movement now has over 100 houses and farms in several countries that feed the needy and house communal workers and continues to stand against exploitation and inequality (Forest 2010). Another well-known example is the kibbutz movement. A kibbutz is a form of communal living first established in 1910 at Dgania in Palestine. The founding ideals of the kibbutz movement combined an agrarian communitarianism with the Zionist goal of claiming land for the Jewish people. Kibbutzim (to use the Hebrew plural) were founded on a purely egalitarian regime of total equality of the members in both work and claim on resources. This communalism extended even to child-rearing; all children on the kibbutz were raised communally in a separate “children’s house” (Shpancer 2011). Although kibbutzim remain a small share of Israel’s culture and economy, many have shifted their practices and community structure to more closely resemble Israel’s wider capitalist society. Although most remain collectivist agrarian communities, some have become for-profit enterprises (Sivak 2020). Many, but not all, modern kibbutzim have differentiated between the management of the economy on one hand and the community on the other, leading to less egalitarian wages but a commitment for caring for all members of the community (Rubinstein 2007). 
+
+
+
+
 **Reference:**  
 Computing and Technology Ethics
 Engaging Through Science Fiction
