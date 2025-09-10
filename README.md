@@ -3248,6 +3248,134 @@ This problem does **not** arise in sub-Saharan African traditions:
 - The spirit world that people enter after death is **not entirely distinct** from the living community.  
 - Ancestors remain part of the human community—not as gods, but as **cherished and respected people** (Ikuenobe 2006; Wiredu 1992a).  
 
+<h3>2.4.4 SELF-REALIZATION IN SUB-SAHARAN COMMUNITARIANISM</h3>
+
+# Self-Realization and Personhood in Sub-Saharan Thought  
+
+Although there are variations across traditions and communities, there are significant commonalities in the idea of **self-realization** as it is found across sub-Saharan Africa (Tangwa 2000; Wiredu 2009).  
+
+The language used to describe the achievement of this self-realization is nearly always rendered in English as **“becoming a person.”** This conception of personhood has both:  
+
+- a **descriptive element**: capturing the basic biological and metaphysical features intrinsic to all persons (Ikuenobe 2006).  
+- a **normative element**: focusing on the realization of a person’s potential for excellence and humanity as a participant in their community (Gbadegesin 1991; Gyekye 1987; Ikuenobe 2006; Menkiti 2005; Wiredu 2009).  
+
+Achieving and maintaining self-realization is a **long-term project**, because it involves:  
+- absorbing values,  
+- taking on responsibilities, and  
+- upholding them throughout adulthood (Ikuenobe 2006; Menkiti 1984).  
+
+---
+
+## Self-Realization as a Communal Project  
+
+Self-realization is **not** something an individual can accomplish by herself. It is:  
+
+- **part of a community effort**,  
+- **validated by recognition from the community**, and  
+- shared between the individual and their community.  
+
+The community imparts values, while the individual accepts and lives by them (Kaphagawani 2005; Menkiti 1984; Presbey 2002; Wiredu 2003).  
+
+The achievement itself is also **shared with the community**, since the development of a person is understood as a **communal project** involving:  
+- education,  
+- nurture, and  
+- role models (Hallen 2005; Ikuenobe 2006; Masolo 2010).  
+
+---
+
+## Rituals, Roles, and Responsibilities  
+
+The achievement of self-realization is often celebrated through **rituals of training** or **induction into community knowledge** (Masolo 2010).  
+
+Complete self-realization also involves claiming **specific social roles** (such as parent or elder), which:  
+- carry social responsibilities,  
+- are recognized by others, and  
+- contribute to the community’s well-being.  
+
+Importantly, these social roles are **not merely biological**. For example:  
+- You are not a mother or father just because you contributed biological material to a child.  
+- You are a parent because you **love, nurture, and provide** for that child (Masolo 2010).  
+
+---
+
+## Sidebar: Agent-Centered vs. Patient-Centered Personhood  
+
+As you will see in chapter 4, using the concept of **personhood** to describe a distinctively human way of being valuable is not unique to sub-Saharan Africa. Ethical thought in general almost always involves some notion of personhood, even if it is implicit (Behrens 2011).  
+
+- The **sub-Saharan conception of personhood** is **agent-centered**.  
+  - Focus: how someone can and should conduct themselves.  
+  - Emphasis: upholding duties and obligations to others.  
+  - The spotlight is on the **agent** who acts rightly (Molefe 2020; Tangwa 2000).  
+
+- The **Western conception of personhood** (especially in the U.S., in bioethics and medical ethics) is usually **patient-centered**.  
+  - Focus: the **rights and protections of individuals**.  
+  - Emphasis: the **patient** as a holder of rights.  
+  - Moral reasoning: agents must respect and protect the patient’s rights.  
+
+Thus, while both approaches affirm the value of personhood, they differ in **whose perspective is centered**—the duty-bearing agent (sub-Saharan) or the rights-bearing patient (Western).  
+
+<h3>2.4.5 UBUNTU</h3>
+
+<p>Ubuntu refers to a crucial human quality that is central to communitarianism of southern and eastern Africa. (Gade 2011) The word “ubuntu” comes from a family of Bantu languages spoken in southern Africa and has close equivalents in several other languages across the southern half of the continent (Idoniboye-Obu and Whetho 2013). The word first appeared in writing in the mid-nineteenth century, but the principle has been transmitted through oral traditions for centuries, in the form of proverbs, myths, riddles and other narratives (Gade 2011; Kamwangamalu 1999). In the past several decades, ubuntu has been taken up by thinkers and politicians in South Africa and Zimbabwe, in an attempt to articulate a distinctly African political philosophy of humane justice. In this same timeframe, it has also become popular among theologians and philosophers from English-speaking countries who aspire to a more global approach to ethics. On account of these two movements, the ubuntu tradition has gained broad name recognition, but it has become increasingly ill defined the more widely it has circulated (Gade 2011; Idoniboye-Obu and Whetho 2013). 
+ 
+
+Even when one focuses on indigenous sources, ubuntu is notoriously difficult to define because it is understood to encompass so many interrelated aspects and ways of being (Idoniboye-Obu and Whetho 2013; Kamwangamalu 1999). In essence, to live with ubuntu means to engage in the process of becoming and being human: to attend to and embrace the interdependence of human existence, in the broader context of an interdependent and harmonious universe. (Mkhize 2008) Ubuntu has been described not only as a quality of character but as an ethic, an orientation, a standard of judgment, and a mode of being (Gade 2011; Idoniboye-Obu and Whetho 2013; Mkhize 2008; Munkaya and Motlhabi 2009). And indeed, the claims that ubuntu makes on a person are so comprehensive that all of these descriptions are potentially useful. 
+ 
+
+Because ubuntu is a human quality rather than an abstract principle, it is not enough to believe in the values of ubuntu. Rather, it requires continuous engagement with the ever-changing world around us, and particularly the active, ongoing affirmation of the humanity of those around us (Chimuka 2001). This affirmation extends not only to one’s immediate community, but also to strangers and outsiders (Munkaya and Motlhabi 2009). Because a person living in accordance with ubuntu “cannot look on the suffering of another and remain unaffected” (Mkhize 2008) in a thriving ubuntu community, all challenges are met both communally and cooperatively (Munkaya and Motlhab 2009). 
+ 
+
+There are differences within different branches of the ubuntu tradition about whether or not humans have distinct metaphysical status or dignity that set them apart from other creatures (Chimuka 2001; Mkhize 2008), but the fact of being human means that has one particular obligations to other members of the human community. </p>
+
+<h3>2.4.6 YORÙBÁ COMMUNITARIANISM</h3>
+
+<p>Yorùbá communitarianism is a tradition based in the region of western Africa that is now Nigeria, along with neighboring parts of Togo and Benin. Although the societies in this region operated under a variety of political structures, nearly all of them were grounded in communitarianism. 
+ 
+
+Yorùbá communitarianism is noteworthy because of its distinctive and well-documented epistemology (that is, its conception of knowledge.) Instead of using vision as the metaphorical basis for understanding, Yorùbá communitarianism instead takes hearing to be the foundation of how understanding works (Oyěwùmí 1997). This approach to knowledge emphasizes the relational nature of knowledge; whereas the underlying model of learning-as-seeing invites us to imagine the thing we are learning as wholly passive under our gaze, learning-as-hearing gives the thing learned about an active role in the perceiver’s learning and emphasizes the interaction and exchange between them. This epistemological approach also underscores the relational, rather than biological, nature of social roles and relationships, because an individual’s physical appearance is not taken to be a significant indicator of who they are (Oyěwùmí 1997). 
+ 
+
+As a consequence of its conceptual rootedness in hearing, Yorùbá communitarianism draws a sharp distinction between firsthand knowledge, which an individual has seen and understood for herself, and all other kinds. The language used to describe second-hand knowledge—whether it is learned from a book, from tradition, or from a friend’s story over lunch—is best translated as “agreeing to what one hears” (Hallen and Sodipo 1997). 
+ 
+
+While this conceptualization of knowledge might at first sound radically individualist, it in fact underscores the extent to which community members depend on one another to know and to understand. Furthermore, it calls attention to the importance of relationships in shaping how information and knowledge is exchanged: an individual who is known to be conscientious and trustworthy will have a greater voice in shaping the community’s shared understanding of a situation. For these reasons, being an observant witness to one’s own experiences, being reliably thoughtful and measured in understanding those experiences, and being careful and precise in communicating them to others are all important elements of a good character in Yorùbá communitarianism (Hallen 2005). </p>
+
+<h3>.4.7 IS THE COMMUNITY AN INTRINSIC GOOD OR AN INSTRUMENTAL ONE?</h3>
+
+<p>There is no question that community is essential to achieving personhood in sub-Saharan ethics. Simply put, there is no way to achieve self-realization apart from a community. What is sometimes less clear, however, is the exact role that communities play in securing an individual’s self-realization, philosophically speaking. Is the community an end in itself, the necessary basis of self-realization? Or is it a means to an end, a necessary path rather than a destination? (Metz 2011). 
+ 
+
+Earlier studies of sub-Saharan communitarianism—perhaps aimed at drawing the sharpest possible contrast with western liberal individualism (Oyowe 2013)—all agreed that community was the center of sub-Saharan value systems and that the value of the individual person is fundamentally constituted by the community and conferred upon them by community recognition (Menkiti 1984). In recent years, however, many scholars have argued that, while individuals need community in order to achieve well-being and self-realization, the true goal of sub-Saharan communitarianism is to create good for all of the individuals in it. </p>
+
+<h3>2.4.8 MODALITIES FOR JUDGMENT</h3>
+
+<p>Sub-Saharan communitarianism is not unique in understanding ethics to be about how to live well with others. But the communitarian framework is distinctive in the way that it positions us to understand individuals and their development in terms of their communities. This distinctive community focus is reflected in its modalities for judgment, which can be formulated as a series of principles that are relational and community-oriented, grounded in the authority of shared humanity and in the reality of our social nature. This principle-based form of ethical reasoning bears some similarity to deontology (recall in particular that deontology centers on duties to others.) But the community-oriented, relational aspect of communitarianism contrasts with an orientation, for many deontological theories, toward an autonomous rational subject.</p>
+
+---
+The Consensus Principle
+
+<p>The Consensus Principle
+The principle of consensus urges us to find common ground with others who have a stake in a given issue. This principle is rooted in both the knowledge theory and the social organization of communitarianism. As we saw above in the Yorùbá tradition specifically, communitarianism considers the tasks of knowing and understanding to be cooperative by necessity. Similarly, Edward Wamala writes of one of the Bantu kingdoms in Uganda, “Nobody has a monopoly on knowledge; everybody is in need of the knowledge and opinions of others” (Wamala 2005, 438). Because communitarianism presumes a strong model of collective participation, it becomes possible to overcome the limits of our individual knowledge by working together to understand and decide. 
+ 
+
+It should be noted that this principle does not assume uniformity of opinion. In fact, it assumes the opposite—if everyone agreed, there would be no need for further discussion. Furthermore, the principle of consensus does not require a community member to surrender to the will of the group. Rather, it demands that each community member participate in the group’s deliberations. 
+ 
+
+Although this principle might at first strike you as irrelevant to at least some kinds of ethical quandaries, further reflection from within the communitarian framework will likely reveal that many problems that seem at first to be yours alone can, in fact, be understood as shared with others in your life—even if it’s only because of their relationship with you. </p>
+---
+The Principle of Building Community
+
+<p>This principle directs us to nurture a sense of common cause and belonging with others in our community. Because people exist in a state of mutual dependence, we all benefit when those necessary ties are strengthened by feelings of solidarity, trust, and belonging. In other words, it is easier to be happy about helping others and to set aside your personal desires in order to help another if you feel a sense of shared identity or community with those others and if you trust that they will help you. 
+ 
+
+Honoring this principle can be as simple as making time for conversation with others. It can also require more significant acts of mutual aid. It can even be helpful to create new structures of mutual dependence, such as a study group, to help strengthen your own and others’ commitment to helping and being helped by others (Masolo 2010). </p>
+---
+The Principle of Peace/Rehabilitation
+<p>According to this principle, an individual should always try, within reasonable measure, to repair relationships with others (Mangena 2015). This principle grows from the understanding that self-realization requires that one have good relationships whenever possible. Maintaining good relationships with others is, therefore, partly an act of self-interest—but characteristically so for communitarianism, because pursuing one’s own interest aligns with the good of the whole. 
+ 
+
+A further dimension of this principle is the importance of restorative justice, a form of justice that centers on making restitution to victims rather than punishing wrongdoers. This principle depends on the cooperation of everyone involved, including the willing participation of those harmed, and often involves other community members as advisors and mediators (Mangena 2015). Honoring this principle means making an effort to rehabilitate wrongdoers, whenever it can be done without being unjust to those who have been wronged. This principle leaves open the possibility of cutting ties with a relentless wrongdoer; good relationships, after all, must be mutual. But insofar as it is possible for an individual to better themself and the other individual by remaining connected, one should seek to do so (Molefe 2020; Wiredu 2009). </p>
+
 
 
 **Reference:**  
