@@ -3182,6 +3182,71 @@ The communitarian framework presented here cannot be, and does not aim to be, a 
 
 It should be noted that communitarian philosophy and practices have also emerged in the culture and thought of Europe and America (Masolo 2010). Political philosophers Michael Sandel and Michael Walzer and philosopher/theologian Alisdair MacIntyre have each argued for the merit and moral urgency of a turn to communitarianism, responding to and drawing from the Euro-American tradition (MacIntyre 2013; Sandel 2010; Walzer 1990). As these thinkers all note, communitarianism is deeply at odds with the structure of the modern western capitalist state. Nonetheless, several communitarian movements have developed. One of the most widespread of these is the Catholic Worker Movement, which began in the United States in the early 1930s as a means to bring about a “society in which it will be easier to be good” (Cornell 2006). Initially just a newspaper, this movement soon expanded to include both independent houses and cooperative farms. The Catholic Worker Movement now has over 100 houses and farms in several countries that feed the needy and house communal workers and continues to stand against exploitation and inequality (Forest 2010). Another well-known example is the kibbutz movement. A kibbutz is a form of communal living first established in 1910 at Dgania in Palestine. The founding ideals of the kibbutz movement combined an agrarian communitarianism with the Zionist goal of claiming land for the Jewish people. Kibbutzim (to use the Hebrew plural) were founded on a purely egalitarian regime of total equality of the members in both work and claim on resources. This communalism extended even to child-rearing; all children on the kibbutz were raised communally in a separate “children’s house” (Shpancer 2011). Although kibbutzim remain a small share of Israel’s culture and economy, many have shifted their practices and community structure to more closely resemble Israel’s wider capitalist society. Although most remain collectivist agrarian communities, some have become for-profit enterprises (Sivak 2020). Many, but not all, modern kibbutzim have differentiated between the management of the economy on one hand and the community on the other, leading to less egalitarian wages but a commitment for caring for all members of the community (Rubinstein 2007). 
 
+<h3>2.4.3 PERSON, COMMUNITY, AND WORLD: SUB-SAHARAN METAPHYSICS</h3>
+
+# Community and Human Self-Realization in Sub-Saharan Thought  
+
+The concepts of community and of human self-realization are easier to understand with a basic understanding of how traditional sub-Saharan cultures conceptualize the composition of the world at large.  
+
+According to most traditional sub-Saharan metaphysics, the entire world is an interdependent and harmonious system. The boundaries between different kinds of living things, between mind and body, between the living and the dead, and between the natural and spirit world are all **gradations of difference** rather than absolute divides. Treating them as categorically separate—as Western metaphysics does—prevents one from understanding them as they actually are (Ramose 2003; Tangwa 2005; Wiredu 1992b).  
+
+This sense of the world as a **harmonious unity** informs nearly every aspect of how sub-Saharan communitarianism is structured. A striking example can be seen in the way the death of a community elder is understood. Although the deceased elder is acknowledged to be biologically dead, they are understood as still present in the community, insofar as their words and character are remembered (Ikuenobe 2006; Masolo 2010; Okolo 1992; Ramose 2003).  
+
+While their presence is felt in this way, the elder is still a person within their community. Only when their name is no longer remembered by anyone living does the elder join the category of **ancestors**, a de-individualized collective of wise and beloved persons who have gone beyond material existence (Menkiti 1984).  
+
+Furthermore, just as the world at large is understood to be an ordered and harmonious whole, most African communitarianism likewise understand human individuals to be, themselves, each a community of many self-elements (Gbadegesin 1991; Neequaye 2020; Ogbonnaya 1994).  
+
+This principle of organization helps underscore why **self-realization must take place in the context of a community**. Because everything that exists is by its nature part of an interconnected and interdependent whole, realizing your purpose in the world must necessarily include acknowledging that you are part of that system of interconnection.  
+
+---
+
+## Sidebar: The Role of Religion in Sub-Saharan Communitarian Thought  
+
+It is easy—but also wrong—to assume that the metaphysical outlook described above is intrinsically “religious” in a way that is not true of the prevailing metaphysical views of the contemporary West (Oladipo 2003).  
+
+The relationship between **religion and metaphysics** is very complicated, and it is entirely possible (and very common) for a person to hold metaphysical beliefs that are rooted in a religion they don’t practice or even know very much about, because those beliefs have shaped their community and culture in ways that are not obviously religious.  
+
+Therefore, although communitarianism is not intrinsically more “religious” than the other frameworks in this book, it is important to understand that there are some major differences between the traditional religions of Africa and the religions that have been foundational to contemporary Europe and America.  
+
+For this reason, we are giving a brief background on sub-Saharan-African traditions—which, like the Abrahamic traditions, have vital and significant differences but nonetheless share some important assumptions about the world.  
+
+---
+
+### Religion in Euro-American Ethics  
+
+In discussing the three classically Western canonical frameworks, we noted that each is compatible with a religious or theistic worldview but can also be adhered to without any belief in God or any religious commitments.  
+
+Whereas this is true in general, it is worth noting that discussions of *“religion”* in the context of Euro-American ethics almost always mean the **Abrahamic traditions**:  
+
+- Judaism  
+- Christianity  
+- Islam  
+
+Although these three religions are not interchangeable, they share many common beliefs about both human nature and divine nature. Those shared beliefs serve as a **metaphysical baseline** for most people raised in communities where Abrahamic religions are the norm—even people who reject the religions themselves or do not believe in God.  
+
+Indeed, they are so widespread that it can be hard to notice. But these religions differ sharply from the indigenous religions of sub-Saharan Africa.  
+
+---
+
+### Indigenous Traditions of Sub-Saharan Africa  
+
+The indigenous traditions of sub-Saharan Africa begin with very different metaphysical assumptions. Two major differences stand out:  
+
+#### 1. The Role of the Divine in Human Knowledge  
+Unlike the Abrahamic religions, which are **revealed religions** (teachings given directly by God to humans), sub-Saharan African religions are **not revealed religions**.  
+
+- Divinities and spirits exist, but they do not communicate with humans in the same way.  
+- They are not a direct source of rules or teachings.  
+- Instead, rules and teachings come from the community’s own wisdom and knowledge of the world, which includes spirits (Gyekye 1987).  
+
+#### 2. The Relationship Between the Spiritual Realm and Morality  
+In Abrahamic contexts, when God is understood as an enforcer, morality can become about **avoiding punishment** rather than about what is genuinely right. This tension has led many European thinkers to argue that genuine **humanism** is incompatible with religious belief.  
+
+This problem does **not** arise in sub-Saharan African traditions:  
+
+- The gods are **not keepers of morality**.  
+- The spirit world that people enter after death is **not entirely distinct** from the living community.  
+- Ancestors remain part of the human community—not as gods, but as **cherished and respected people** (Ikuenobe 2006; Wiredu 1992a).  
 
 
 
